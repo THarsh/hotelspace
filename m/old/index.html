@@ -1,18 +1,18 @@
-
 <!DOCTYPE html>
 <html>
 	<head>
 		<title>Affordable Hotels in Downtown Sydney Australia | Hotel Space</title>
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport" />
-<meta charset="utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta name="keywords" content="" />
 <meta name="description" content="With locations in convient downtown locations, Hotel Space offers affordable hotels during the best time to be in the  city,  the summer. Visit our webpage to learn more about us." />
 <link rel="canonical" href="http://www.hotelspace.com.au/">
 <!-- DEFAULT STYLESHEETS-->
+<!--================= ########Link change here########=============== -->
 <link rel="stylesheet" media="handheld, screen" href="../main_assets/frontend/m/includes/css/default.min.css" /><!-- Default.css + slick.css -->
-<link rel="stylesheet" media="handheld, screen" href="includes/css/style.css?59b93a0fb4ae7" />
-<script src="ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link rel="stylesheet" media="handheld, screen" href="../hotelspace/m/includes/css/style.css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
 	var SITE_ROOT = 'http://'+document.domain+'/';
 	var CLIENT_FOLDER = 'hotel-space/';
@@ -22,7 +22,7 @@
 	var latitude = '-33.898799';
 	var longitude = '151.176229';
 </script>
-<script>
+<!-- <script>
 			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -36,9 +36,9 @@
 					ga('send', 'pageview');
 
 
-			</script>
+			</script> -->
 
-
+<!--================= ########Link change here########=============== -->
 <meta name="google-site-verification" content="slA3M_rCaXlY70UTDm1kIVgxR_zxvFlrjGKmM81gjG0" />
 <!-- POPUP SCRIPT -->
 <script src="../main_assets/frontend/includes/js/jquery-validate/jquery.validate.min.js"></script>
@@ -59,7 +59,7 @@
     $(document).ready(function(){
 
         $("#submit-button").click(function(){
-
+			
 			var redirect = "";
             var valid = true;
             var modal_container = $("div[data-em=\"modal-container\"]");
@@ -92,7 +92,7 @@
 	                    if(redirect != '' && redirect != undefined) {
 		                    window.location.href = redirect;
 	                    } else {
-	                        bioEp.showThankYou();
+	                        bioEp.showThankYou();		                    
 	                    }
 //                        bioEp.hidePopup();
                     }
@@ -111,7 +111,7 @@
                     $(document).on('click', "#bio_ep_bg", function(){
                 bioEp.hidePopup();
             });
-
+        
     });
 
 </script>
@@ -160,10 +160,10 @@ Menu</a>
 		</header>
 		<div class="select-resort">
 		   <ul class="resorts-list">
-								<li><a href="resorts/newtown" class="noajax newtown">newtown</a></li>
-				<li><a href="resorts/sydney" class="noajax sydney">sydney</a></li>
-				<li><a href="resorts/glebe" class="noajax glebe">glebe</a></li>
-				<li><a href="resorts/racecourse" class="noajax racecourse">racecourse</a></li>
+								<li><a href="http://www.hotelspace.com.au/m/resorts/newtown" class="noajax newtown">newtown</a></li>
+				<li><a href="http://www.hotelspace.com.au/m/resorts/sydney" class="noajax sydney">sydney</a></li>
+				<li><a href="http://www.hotelspace.com.au/m/resorts/glebe" class="noajax glebe">glebe</a></li>
+				<li><a href="http://www.hotelspace.com.au/m/resorts/racecourse" class="noajax racecourse">racecourse</a></li>
 			</ul>
 		</div>
 		<div class="navigation overlay">
@@ -174,7 +174,7 @@ Menu</a>
 	 width="45.078px" height="45.078px" viewBox="0 0 45.078 45.078" style="enable-background:new 0 0 45.078 45.078;"
 	 xml:space="preserve">
 <g id="Close">
-	<polygon points="45.078,4.95 40.129,0 22.54,17.589 4.95,0 0,4.95 17.59,22.539 0,40.129 4.95,45.078 22.539,27.488 40.129,45.078
+	<polygon points="45.078,4.95 40.129,0 22.54,17.589 4.95,0 0,4.95 17.59,22.539 0,40.129 4.95,45.078 22.539,27.488 40.129,45.078 
 		45.078,40.128 27.489,22.539 	"/>
 </g>
 <g id="Layer_1">
@@ -183,17 +183,17 @@ Menu</a>
 </div>
 	<div class="inner">
 		<ul>
-
-
-		                    <li class="primary-nav-1"><a  href="groups" target="" class=" "  >Groups</a>
+		    		                    
+		                    		    
+		                    <li class="primary-nav-1"><a  href="http://www.hotelspace.com.au/m/groups" target="" class=" "  >Groups</a>
 			                    			                </li>
-
-
-		                    <li class="primary-nav-2"><a  href="special-offers" target="" class=" "  >Offers</a>
+		                    		                    
+		                    		    
+		                    <li class="primary-nav-2"><a  href="http://www.hotelspace.com.au/m/special-offers" target="" class=" "  >Offers</a>
 			                    			                </li>
-
-
-		                    <li class="primary-nav-3"><a  href="photo-gallery" target="" class=" "  >Photos</a>
+		                    		                    
+		                    		    
+		                    <li class="primary-nav-3"><a  href="http://www.hotelspace.com.au/m/photo-gallery" target="" class=" "  >Photos</a>
 			                    			                </li>
 		                    		            		</ul>
 	</div>
@@ -312,11 +312,11 @@ Menu</a>
 				</div>
 				<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
 					<h3>Newtown Space</h3>
-				</div>
+				</div>	
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
 					<p>Located on the main campus, Newtown Space is in the heart of fashionable and cosmopolitan Newtown, just steps from great dining, shopping and entertainment on King Street.<!--... <a href="http://www.hotelspace.com.au/resorts/newtown">Continue Reading</a>--></p>
 					<a href="http://www.hotelspace.com.au/resorts/newtown" class="btn white">View Property</a>
-				</div>
+				</div>				
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
@@ -327,11 +327,11 @@ Menu</a>
 				</div>
 				<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
 					<h3>Sydney Space</h3>
-				</div>
+				</div>	
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
 					<p>FreeSpace Sydney is conveniently located at 10 Missenden Road in&nbsp;the bustling area of&nbsp;Camperdown. <!--... <a href="http://www.hotelspace.com.au/resorts/sydney">Continue Reading</a>--></p>
 					<a href="http://www.hotelspace.com.au/resorts/sydney" class="btn white">View Property</a>
-				</div>
+				</div>				
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
@@ -342,11 +342,11 @@ Menu</a>
 				</div>
 				<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
 					<h3>Glebe Space</h3>
-				</div>
+				</div>	
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
 					<p>Glebe Space is tucked into Camperdown in close proximity to Bicentennial Park, the Saturday Market and dozens of variety of international cousine eateries.<!--... <a href="http://www.hotelspace.com.au/resorts/glebe">Continue Reading</a>--></p>
 					<a href="http://www.hotelspace.com.au/resorts/glebe" class="btn white">View Property</a>
-				</div>
+				</div>				
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
@@ -357,11 +357,11 @@ Menu</a>
 				</div>
 				<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
 					<h3>Racecourse Space</h3>
-				</div>
+				</div>	
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
 					<p>Just six minutes away from the world-famous Coogee Beach, Racecourse Space is surrounded by the trendy cafes and vibrant nightlife.<!--... <a href="http://www.hotelspace.com.au/resorts/racecourse">Continue Reading</a>--></p>
 					<a href="http://www.hotelspace.com.au/resorts/racecourse" class="btn white">View Property</a>
-				</div>
+				</div>				
 			</div>
 				</div>
 	</div>
@@ -417,16 +417,16 @@ Menu</a>
 						<cite>- Hotel Guest I Glebe Space</cite>
 					</div>
 									<div class="testimonial">
-						<blockquote>Staff were pleasant. Room was clean. Great access to King St Newtown, and therefore public transport to anywhere in the city. Will stay again. </blockquote>
-						<cite>- Crystal J. I Newtown Space</cite>
+						<blockquote>It was very good value for money; good location - close to shops and Coogee Beach. Staff was helpful and we would certainly stay again.</blockquote>
+						<cite>- Hotel Guest I Racecourse Space</cite>
 					</div>
 									<div class="testimonial">
 						<blockquote>It&#39;s within minutes walk of Newtown, loads of places to eat a massive variety and cuisines. Lots of beautiful parks nearby and the buildings themselves are beautiful. Easily the nicest place I could find within my price bracket.</blockquote>
 						<cite>- KLambo I Newtown Space</cite>
 					</div>
 									<div class="testimonial">
-						<blockquote>It was very good value for money; good location - close to shops and Coogee Beach. Staff was helpful and we would certainly stay again.</blockquote>
-						<cite>- Hotel Guest I Racecourse Space</cite>
+						<blockquote>Easy access to central station and city via bus (stop located outside). Close walk to Newtown. Convenience shop and petrol station close by. Located on the lovely University grounds.</blockquote>
+						<cite>- Hotel Guest I Glebe Space</cite>
 					</div>
 							</div>
 		</div>
@@ -485,24 +485,24 @@ Menu</a>
 	<div class="container">
 		<a href="http://www.hotelspace.com.au/photo-gallery">
 			<div class="row first clearfix">
-				<img src="includes/images/gal-img-1.jpg">
-				<img src="includes/images/gal-img-2.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-1.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-2.jpg">
 			</div>
 			<div class="row group clearfix">
-				<img src="includes/images/gal-img-3.jpg">
-				<img src="includes/images/gal-img-4.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-3.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-4.jpg">
 			</div>
 			<div class="row bottom clearfix">
 				<div class="verbige">Chasing <span>Summer</span></div><img src="http://www.hotelspace.com.au/assets/images/home/gallery5.png">
-				<img src="includes/images/gal-img-6.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-6.jpg">
 			</div>
 			<div class="row last clearfix">
-				<img src="includes/images/gal-img-7.jpg">
+				<img src="http://www.hotelspace.com.au/m/includes/images/gal-img-7.jpg">
 			</div>
 		</a>
 	</div>
 </section>
-
+		
 		<div id="footer">
 			<div class="sign-up">
 				<div class="container">
@@ -521,19 +521,19 @@ Menu</a>
 			</div>
 			<nav id="secondary-nav">
     <ul>
-
+                        
                 <li class="secondary-nav-1"><a  href="http://www.hotelspace.com.au/about-hotel-space"  class=" "  >Our Brand</a>
                                     </li>
-
+                                
                 <li class="secondary-nav-2"><a  href="http://www.hotelspace.com.au/partnerships"  class=" "  >Partnerships</a>
                                     </li>
-
+                                
                 <li class="secondary-nav-3"><a  href="http://www.hotelspace.com.au/blog"  class=" "  >Blog</a>
                                     </li>
-
+                                
                 <li class="secondary-nav-4"><a  href="http://www.hotelspace.com.au/faq"  class=" "  >FAQ</a>
                                     </li>
-
+                                
                 <li class="secondary-nav-5"><a  href="http://www.hotelspace.com.au/contact-us"  class=" "  >Contact us</a>
                                     </li>
                     </ul>
@@ -615,7 +615,7 @@ Menu</a>
 	 M364.998,39.828l0.173-0.003c0.873-0.012,1.724-0.33,2.398-0.9c0.761-0.645,1.221-1.537,1.296-2.512
 	c0.071-0.938-0.227-1.844-0.843-2.551c-0.679-0.775-1.67-1.221-2.726-1.221c-0.92,0-1.813,0.339-2.512,0.952
 	c-0.672,0.597-1.107,1.405-1.221,2.274l-0.024,0.177l0.171,0.056c1.616,0.537,2.861,1.901,3.248,3.557L364.998,39.828z"/>
-<polyline  points="198.622,42.69 198.622,41.11 203.813,41.11 203.813,42.69 202.13,42.69 202.13,48.157
+<polyline  points="198.622,42.69 198.622,41.11 203.813,41.11 203.813,42.69 202.13,42.69 202.13,48.157 
 	200.405,48.157 200.405,42.69 198.622,42.69 "/>
 <path  d="M245.751,41.11c1.376,0,2.73,0.409,2.73,1.827c0,0.67-0.364,1.231-0.91,1.465v0.021
 	c0.625,0.255,1.114,0.879,1.114,1.717c0,1.1-0.75,1.928-2.526,1.928h-2.381V41.11H245.751 M245.512,43.885h0.43
@@ -627,15 +627,15 @@ Menu</a>
 <path  d="M280.14,45.66c0,1.625-1.267,2.576-3.013,2.576c-1.624,0-2.759-0.765-2.759-2.451V41.11h1.725v4.186
 	c0,0.735,0.212,1.354,1.07,1.354c1.123,0,1.253-0.778,1.253-1.732V41.11h1.724V45.66"/>
 <rect x="303.873" y="41.11"  width="1.728" height="7.047"/>
-<polyline  points="321.464,48.236 316.899,44.256 316.899,48.157 315.172,48.157 315.172,40.943 315.201,40.943
+<polyline  points="321.464,48.236 316.899,44.256 316.899,48.157 315.172,48.157 315.172,40.943 315.201,40.943 
 	319.752,44.854 319.752,41.11 321.479,41.11 321.479,48.236 321.464,48.236 "/>
-<polyline  points="331.059,48.068 331.059,41.11 335.51,41.11 335.51,42.581 332.782,42.581 332.782,43.791
+<polyline  points="331.059,48.068 331.059,41.11 335.51,41.11 335.51,42.581 332.782,42.581 332.782,43.791 
 	335.37,43.791 335.37,45.26 332.782,45.26 332.782,46.6 335.51,46.6 335.51,48.068 331.059,48.068 "/>
 <path  d="M291.259,45.372h0.206l1.689,2.785h2.022l-1.997-3.13c0.705-0.262,1.128-1.041,1.128-1.763
 	c0-1.586-1.193-2.155-2.818-2.155h-1.956v7.046h1.725L291.259,45.372 M291.259,42.37c0.84-0.076,1.384,0.09,1.384,0.823
 	c0,0.727-0.498,0.957-1.384,0.9V42.37z"/>
-<polyline  points="228.359,48.157 229.059,45.079 229.079,45.079 230.748,48.46 230.77,48.46 232.596,45.072
-	232.612,45.072 233.283,48.157 234.889,48.157 233.213,40.943 233.192,40.943 230.821,45.334 228.506,40.943 228.492,40.943
+<polyline  points="228.359,48.157 229.059,45.079 229.079,45.079 230.748,48.46 230.77,48.46 232.596,45.072 
+	232.612,45.072 233.283,48.157 234.889,48.157 233.213,40.943 233.192,40.943 230.821,45.334 228.506,40.943 228.492,40.943 
 	226.757,48.157 228.359,48.157 "/>
 <path  d="M213.596,46.744h2.65l0.661,1.412h1.714l-3.664-7.328h-0.021l-3.634,7.328h1.65L213.596,46.744
 	 M214.937,43.752l0.81,1.703h-1.621L214.937,43.752z"/>
@@ -657,7 +657,7 @@ Menu</a>
     </div>
 	<footer>
 		<div class="buttons">
-			<a href="photo-gallery" class="footer-btn gallery first">
+			<a href="http://www.hotelspace.com.au/m/photo-gallery" class="footer-btn gallery first">
 				<span class="iconfont"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.72 37.84"><title>Symphony-Icons-Gallery-3</title><g id="PhotoGallery"><path d="M23.86,12.74A9.23,9.23,0,1,0,33.09,22,9.24,9.24,0,0,0,23.86,12.74Z"/><path d="M45.12,6.11H33.53L33,2.75A3.07,3.07,0,0,0,29.74,0H18a3.07,3.07,0,0,0-3.3,2.75l-.5,3.35H2.6A2.6,2.6,0,0,0,0,8.71V35.24a2.6,2.6,0,0,0,2.6,2.6H45.12a2.6,2.6,0,0,0,2.6-2.6V8.71A2.6,2.6,0,0,0,45.12,6.11ZM32.23,30.34A11.83,11.83,0,1,1,35.69,22,11.76,11.76,0,0,1,32.23,30.34Zm12-17.15H36.14V9.68h8.06Z"/></g></svg></span>
 				<span class="btn-label">Photos</span>
 			</a>
@@ -679,7 +679,7 @@ Menu</a>
 	 width="45.078px" height="45.078px" viewBox="0 0 45.078 45.078" style="enable-background:new 0 0 45.078 45.078;"
 	 xml:space="preserve">
 <g id="Close">
-	<polygon points="45.078,4.95 40.129,0 22.54,17.589 4.95,0 0,4.95 17.59,22.539 0,40.129 4.95,45.078 22.539,27.488 40.129,45.078
+	<polygon points="45.078,4.95 40.129,0 22.54,17.589 4.95,0 0,4.95 17.59,22.539 0,40.129 4.95,45.078 22.539,27.488 40.129,45.078 
 		45.078,40.128 27.489,22.539 	"/>
 </g>
 <g id="Layer_1">
@@ -715,9 +715,9 @@ Menu</a>
 			</form>
 		</div>
 	</div>
-
+	
 <!-- DEFAULT JAVASCRIPTS-->
-<script src="ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" type="text/javascript"></script>
 <script src="../main_assets/frontend/includes/js/slick.min.js" type="text/javascript"></script>
 <script src="../main_assets/frontend/assets/js/js.cookie.js" type="text/javascript"></script>
 <script src="../main_assets/frontend/m/includes/js/main.min.js" type="text/javascript"></script>
@@ -725,7 +725,7 @@ Menu</a>
 <!--gallery-->
 
 <!-- JAVASCRIPT-->
-	<script src="http://www.hotelspace.com.au/assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
+	<script src="../assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
 
 <script>
 	$(function(){
@@ -772,7 +772,7 @@ Menu</a>
 			btn.next().slideToggle();
 		});
 	}
-
+	
 	function showContent(btn,content,className){
 		btn.click(function(event) {
 			event.preventDefault();
@@ -780,7 +780,7 @@ Menu</a>
 			content.fadeToggle();
 		});
 	}
-
+	
 	function menu(btn){
 		btn.click(function(event) {
 			event.preventDefault();
@@ -956,7 +956,7 @@ Menu</a>
 			/*MOBILE MENU NAV
 			****************************************************************/
 
-
+			
 			//Open Navigation
 			$('#menu-btn').click(function(event) {
 				$('html').addClass('hide-overflow');
@@ -993,13 +993,13 @@ Menu</a>
 		                $(this).next().slideUp(300, 'easeOutQuart', function(){
 			                if($('.navigation ul li a').hasClass('active')){
 								$(".item-open").get(0).scrollIntoView(false);
-							}
-		                }).removeClass('menu-open');
+							} 
+		                }).removeClass('menu-open');	                
 		            } else {
 			            $(this).closest('.inner').addClass('open');
 			            $('.navigation ul li').removeClass('item-open');
 			            $(this).parent().addClass('item-open');
-		                $('.sub-sub-menu.menu-open').slideUp(300, 'easeOutQuart').removeClass('menu-open');
+		                $('.sub-sub-menu.menu-open').slideUp(300, 'easeOutQuart').removeClass('menu-open'); 
 		                $(this).next().addClass('menu-open').slideDown(300, 'easeOutQuart', function(){
 			                if($('.navigation ul li a').hasClass('active')){
 								$(".item-open").get(0).scrollIntoView(false);
@@ -1030,10 +1030,10 @@ Menu</a>
 					}
 				return false;
 			});
-
+			
 			//Slick Slider
 			$('.sym-slides').slick();
-
+			
 			if ($('.countdown').length > 0) {
 		        var day = $('#day').val();
 		        var month = $('#month').val();
@@ -1041,7 +1041,7 @@ Menu</a>
 		        var hour = $('#hour').val();
 		        var minute = $('#min').val();
 		        var second = $('#sec').val();
-
+		        
 		        setTimeout(function () {
 		            $('#countdown_dashboard').countDown({
 		                targetDate: {
@@ -1056,18 +1056,18 @@ Menu</a>
 		            });
 		        }, 200)
 		    }
-
+			
 			$('.toggle-full').click(function(e) {
 			    $(this).prev('div.desc').slideToggle();
 			    $(this).toggleClass('hide');
 			    var text = $(this).text();
 				$(this).text(text == "Hide Area Description" ? "Show Area Description" : "Hide Area Description");
 			});
-
-
+			
+			
 /*
 			$('.sym-slides-rooms').slick();
-
+			
 			$('.tabs a').on('click', function(e){
 				e.preventDefault();
 				$(".sym-slides-rooms").slick("unslick");
@@ -1078,7 +1078,7 @@ Menu</a>
 				$(target).fadeIn();
 				$(".sym-slides-rooms").slick();
 				return false;
-			});
+			});	
 			$('.filter a').on('click', function(e){
 				e.preventDefault();
 				$(".sym-slides-rooms").slick("unslick");
@@ -1094,14 +1094,14 @@ Menu</a>
 
 			$(".sym-slides-rooms").slick({
 				arrows: true,
-				dots: false,
+				dots: false, 
 				autoplay: false,
 				speed: 500,
 				fade: true,
 				accessibility: false
 			});
-
-
+			
+			
 			$('.tabs a').on('click', function(e){
 				$(".sym-slides-rooms").slick("unslick");
 				var target = $(this).attr('href');
@@ -1113,7 +1113,7 @@ Menu</a>
 				    $(".sym-slides-rooms").slick();
 				}, 100);
 				return false;
-			});
+			});	
 			$('.filter a').on('click', function(e){
 				$(".sym-slides-rooms").slick("unslick");
 				var target = $(this).attr('href');
@@ -1126,14 +1126,14 @@ Menu</a>
 				}, 100);
 				return false;
 			});
-
+			
 			$('#content .content li, .landing-page ul.sym-inline-list li').wrapInner('<span></span>');
-
+			
 			/*END OF CUSTOM SCRIPTS
 			****************************************************************/
 
 		});
 
 	</script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3ba8258ba6","applicationID":"11881292","transactionName":"MgQGZEZYXhFXVRdcDAtOMUJdFl1NX1gHUBtLEQxA","queueTime":0,"applicationTime":158,"atts":"HkMFEg5CTR8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+	</body>
 </html>
