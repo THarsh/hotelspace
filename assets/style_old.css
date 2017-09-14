@@ -354,7 +354,7 @@ p {
 }
 
 .racecourse #header a.logo {
-    background-image: url("images/racecourse-space.png")
+    background-image: url("images/free-space-logo.png")
 }
 
 .sydney #header a.logo {
@@ -1200,25 +1200,6 @@ p {
 
 #home.child-resort .best-rate ul li.gardens {
     background: url("images/resort-glebe/icon-yard.png") no-repeat top center;
-    padding-top: 49px
-}
-
-#home.child-resort .best-rate ul li.lounge {
-    background: url("images/resort-glebe/icon-lounge.svg") no-repeat top center;
-    background-size: 40px;
-    padding-top: 36px;
-    margin-top: 8px
-}
-
-#home.child-resort .best-rate ul li.coffee {
-    background: url("images/resort-glebe/icon-coffee.svg") no-repeat top center;
-    background-size: 40px;
-    padding-top: 49px
-}
-
-#home.child-resort .best-rate ul li.breakfast {
-    background: url("images/resort-glebe/icon-breakfast.svg") no-repeat top center;
-    background-size: 60px;
     padding-top: 49px
 }
 
@@ -3079,7 +3060,7 @@ ul.global-sitemap li ul li:before {
 }
 
 #content {
-    background: url("images/resort-glebe/grafitti-map.png") no-repeat right bottom #d3ecff
+    background: url("images/resort-glebe/grafitti-map.png") no-repeat right top #d3ecff
 }
 
 .special-offers #content, .request-quote #content, .stay-at-space #content, .event-calendar #content, .lease-space #content, .faq #content, .contact-us #content, .location #content {
@@ -3657,6 +3638,7 @@ ul.global-sitemap li ul li:before {
 }
 
 .our-brand-trio {
+    margin-top: -120px;
     float: left
 }
 

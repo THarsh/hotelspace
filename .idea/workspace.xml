@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/includes/css/default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/includes/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/includes/js/main.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/photo-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m_dsad/special-offers.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="$PROJECT_DIR$/assets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/groups.html" afterPath="$PROJECT_DIR$/groups.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo-gallery.html" afterPath="$PROJECT_DIR$/photo-gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/location.html" afterPath="$PROJECT_DIR$/resorts/newtown/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/newtown.html" afterPath="$PROJECT_DIR$/resorts/newtown/newtown.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/our-property.html" afterPath="$PROJECT_DIR$/resorts/newtown/our-property.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/rooms.html" afterPath="$PROJECT_DIR$/resorts/newtown/rooms.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/special-offers.html" afterPath="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" afterPath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/location.html" afterPath="$PROJECT_DIR$/resorts/sydney/location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/our-property.html" afterPath="$PROJECT_DIR$/resorts/sydney/our-property.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/rooms.html" afterPath="$PROJECT_DIR$/resorts/sydney/rooms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/special-offers.html" afterPath="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-offers.html" afterPath="$PROJECT_DIR$/special-offers.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,42 +40,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sydney.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resorts/sydney/sydney.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="437" column="13" lean-forward="true" selection-start-line="285" selection-start-column="3" selection-end-line="437" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stay-at-space.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resorts/sydney/stay-at-space.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2522">
-              <caret line="460" column="0" lean-forward="true" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
-              <folding>
-                <element signature="e#19930#19937#0" expanded="true" />
-                <element signature="e#20039#20046#0" expanded="true" />
-                <element signature="e#20102#20109#0" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#37881#37886#0" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rooms.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resorts/sydney/rooms.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="865" column="21" lean-forward="true" selection-start-line="854" selection-start-column="12" selection-end-line="865" selection-end-column="21" />
+            <state relative-caret-position="1190">
+              <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -69,13 +54,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Copyright</find>
-      <find>Gallery-12-58471d99e0c07</find>
-      <find>2042</find>
       <find>symphonyhotelmarketing</find>
       <find>twin</find>
       <find>assets/scripts.js</find>
-      <find>style.css</find>
       <find>global</find>
       <find>global.</find>
       <find>hotel-</find>
@@ -83,12 +64,25 @@
       <find />
       <find>style</find>
       <find>google</find>
-      <find>copy</find>
       <find>location</find>
       <find>photo</find>
       <find>script</find>
-      <find>head</find>
+      <find>../assets</find>
+      <find>cop</find>
+      <find>heade</find>
       <find>scripts</find>
+      <find>sty</find>
+      <find>style.css</find>
+      <find>icon-close.png</find>
+      <find>hotel-space</find>
+      <find>grafitti-map.png</find>
+      <find>content</find>
+      <find>gallery-4.jpg</find>
+      <find>copy</find>
+      <find>jquery.min</find>
+      <find>j</find>
+      <find>CoogeeFestival-58471ea27e066-472x630.jpg</find>
+      <find>head</find>
       <find>header</find>
     </findStrings>
   </component>
@@ -98,27 +92,42 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resorts/newtown.html" />
         <option value="$PROJECT_DIR$/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/special-offers.html" />
-        <option value="$PROJECT_DIR$/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/groups.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/groups.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/location.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/our-property.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/location.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/our-property.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/sydney.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/newtown.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/glebe.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/location.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/special-offers.html" />
+        <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/racecourse.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/location.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/racecourse/rooms.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/groups.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/location.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/location.html" />
+        <option value="$PROJECT_DIR$/special-offers.html" />
       </list>
     </option>
   </component>
@@ -150,7 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,10 +185,6 @@
               <option name="myItemId" value="resorts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sydney" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -194,10 +199,14 @@
               <option name="myItemId" value="resorts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glebe" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,22 +301,23 @@
       <workItem from="1504975433924" duration="5235000" />
       <workItem from="1505015656261" duration="14557000" />
       <workItem from="1505322881598" duration="11813000" />
+      <workItem from="1505396976742" duration="14216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32406000" />
+    <option name="totallyTimeSpent" value="46622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15329513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -338,7 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -355,7 +364,7 @@
         <state relative-caret-position="4964">
           <caret line="292" column="29" lean-forward="true" selection-start-line="292" selection-start-column="29" selection-end-line="292" selection-end-column="29" />
           <folding>
-            <marker date="1505340231846" expanded="true" signature="32874:32971" ph="..." />
+            <marker date="1505410818229" expanded="true" signature="32897:32994" ph="..." />
           </folding>
         </state>
       </provider>
@@ -380,7 +389,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5015">
           <caret line="295" column="70" lean-forward="false" selection-start-line="295" selection-start-column="70" selection-end-line="295" selection-end-column="70" />
-          <folding />
+          <folding>
+            <element signature="e#20248#20255#0" expanded="true" />
+            <element signature="e#20357#20364#0" expanded="true" />
+            <element signature="e#20420#20427#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41576#41581#0" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -429,39 +449,51 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resorts/newtown.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="113" column="48" lean-forward="true" selection-start-line="113" selection-start-column="48" selection-end-line="113" selection-end-column="48" />
+        <state relative-caret-position="289">
+          <caret line="81" column="49" lean-forward="false" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/partnerships.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/privacy-policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="460" column="0" lean-forward="false" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
+          <folding>
+            <element signature="e#19930#19937#0" expanded="false" />
+            <element signature="e#20039#20046#0" expanded="false" />
+            <element signature="e#20102#20109#0" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#37881#37886#0" expanded="false" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/sydney.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1207">
+          <caret line="437" column="13" lean-forward="false" selection-start-line="285" selection-start-column="3" selection-end-line="437" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="90" column="73" lean-forward="false" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="291" column="41" lean-forward="false" selection-start-line="291" selection-start-column="41" selection-end-line="291" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="294" column="69" lean-forward="false" selection-start-line="294" selection-start-column="69" selection-end-line="294" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="315" column="69" lean-forward="false" selection-start-line="315" selection-start-column="69" selection-end-line="315" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -469,59 +501,294 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2913">
+          <caret line="432" column="13" lean-forward="false" selection-start-line="432" selection-start-column="13" selection-end-line="432" selection-end-column="13" />
+          <folding>
+            <marker date="1505399086073" expanded="true" signature="28245:28342" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/glebe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="296" column="90" lean-forward="false" selection-start-line="296" selection-start-column="90" selection-end-line="296" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="320" column="90" lean-forward="false" selection-start-line="320" selection-start-column="90" selection-end-line="320" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="318" column="90" lean-forward="false" selection-start-line="318" selection-start-column="90" selection-end-line="318" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="295" column="90" lean-forward="false" selection-start-line="295" selection-start-column="90" selection-end-line="295" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="321" column="90" lean-forward="false" selection-start-line="321" selection-start-column="90" selection-end-line="321" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="296" column="39" lean-forward="false" selection-start-line="296" selection-start-column="38" selection-end-line="296" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="116" column="145" lean-forward="false" selection-start-line="116" selection-start-column="145" selection-end-line="116" selection-end-column="145" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/special-offers.html">
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/racecourse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="294" column="88" lean-forward="false" selection-start-line="294" selection-start-column="88" selection-end-line="294" selection-end-column="88" />
+        <state relative-caret-position="193">
+          <caret line="318" column="90" lean-forward="true" selection-start-line="318" selection-start-column="26" selection-end-line="318" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#37540#37547#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#40189#40195#0" expanded="true" />
+            <element signature="e#40234#40240#0" expanded="true" />
+            <element signature="e#40262#40268#0" expanded="true" />
+            <element signature="e#41741#41747#0" expanded="true" />
+            <element signature="e#43576#43582#0" expanded="true" />
+            <element signature="e#43621#43627#0" expanded="true" />
+            <element signature="e#43639#43645#0" expanded="true" />
+            <element signature="e#43662#43668#0" expanded="true" />
+            <element signature="e#45519#45525#0" expanded="true" />
+            <element signature="e#47398#47404#0" expanded="true" />
+            <element signature="e#49246#49252#0" expanded="true" />
+            <element signature="e#49291#49297#0" expanded="true" />
+            <element signature="e#50875#50881#0" expanded="true" />
+            <element signature="e#50922#50928#0" expanded="true" />
+            <element signature="e#51056#51062#0" expanded="true" />
+            <element signature="e#52526#52532#0" expanded="true" />
+            <element signature="e#54030#54036#0" expanded="true" />
+            <element signature="e#54075#54081#0" expanded="true" />
+            <element signature="e#54107#54113#0" expanded="true" />
+            <element signature="e#55615#55621#0" expanded="true" />
+            <element signature="e#55660#55666#0" expanded="true" />
+            <element signature="e#57287#57293#0" expanded="true" />
+            <element signature="e#57305#57311#0" expanded="true" />
+            <element signature="e#58808#58814#0" expanded="true" />
+            <element signature="e#58853#58859#0" expanded="true" />
+            <element signature="e#58885#58891#0" expanded="true" />
+            <element signature="e#64162#64168#0" expanded="true" />
+            <element signature="e#64193#64199#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#81497#81502#0" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="321" column="90" lean-forward="false" selection-start-line="321" selection-start-column="90" selection-end-line="321" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="339" column="90" lean-forward="false" selection-start-line="339" selection-start-column="90" selection-end-line="339" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="298" column="90" lean-forward="false" selection-start-line="298" selection-start-column="90" selection-end-line="298" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="291" column="90" lean-forward="false" selection-start-line="291" selection-start-column="90" selection-end-line="291" selection-end-column="90" />
+          <folding>
+            <marker date="1505409436530" expanded="true" signature="32901:32998" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="294" column="90" lean-forward="false" selection-start-line="294" selection-start-column="90" selection-end-line="294" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/racecourse/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="100" column="78" lean-forward="false" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="467" column="63" lean-forward="false" selection-start-line="467" selection-start-column="63" selection-end-line="467" selection-end-column="63" />
+          <folding>
+            <marker date="1505409998297" expanded="true" signature="35678:35775" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="301" column="86" lean-forward="false" selection-start-line="301" selection-start-column="86" selection-end-line="301" selection-end-column="86" />
+          <folding>
+            <marker date="1505410818229" expanded="true" signature="32897:32994" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="307" column="81" lean-forward="false" selection-start-line="307" selection-start-column="81" selection-end-line="307" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="334" column="85" lean-forward="false" selection-start-line="334" selection-start-column="85" selection-end-line="334" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="303" column="75" lean-forward="false" selection-start-line="303" selection-start-column="75" selection-end-line="303" selection-end-column="75" />
+          <folding>
+            <element signature="e#20248#20255#0" expanded="true" />
+            <element signature="e#20357#20364#0" expanded="true" />
+            <element signature="e#20420#20427#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41576#41581#0" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="302" column="74" lean-forward="false" selection-start-line="302" selection-start-column="74" selection-end-line="302" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="293" column="37" lean-forward="true" selection-start-line="293" selection-start-column="37" selection-end-line="293" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="291" column="19" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="314" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resorts/sydney/photo-gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="292" column="88" lean-forward="false" selection-start-line="292" selection-start-column="88" selection-end-line="292" selection-end-column="88" />
+        <state relative-caret-position="380">
+          <caret line="306" column="88" lean-forward="false" selection-start-line="306" selection-start-column="88" selection-end-line="306" selection-end-column="88" />
           <folding>
-            <marker date="1505337659856" expanded="true" signature="32568:32665" ph="..." />
+            <marker date="1505411182905" expanded="true" signature="32571:32668" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resorts/sydney/our-property.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="293" column="88" lean-forward="false" selection-start-line="293" selection-start-column="88" selection-end-line="293" selection-end-column="88" />
+        <state relative-caret-position="397">
+          <caret line="310" column="87" lean-forward="false" selection-start-line="310" selection-start-column="87" selection-end-line="310" selection-end-column="87" />
           <folding>
-            <element signature="e#20389#20396#0" expanded="true" />
-            <element signature="e#20406#20413#0" expanded="true" />
+            <element signature="e#20407#20414#0" expanded="true" />
+            <element signature="e#20424#20431#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#21667#21673#0" expanded="true" />
-            <element signature="e#21875#21880#0" expanded="true" />
+            <element signature="e#21685#21691#0" expanded="true" />
+            <element signature="e#21893#21898#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23226#23233#0" expanded="true" />
-            <element signature="e#23321#23328#0" expanded="true" />
+            <element signature="e#23244#23251#0" expanded="true" />
+            <element signature="e#23339#23346#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23885#23892#0" expanded="true" />
+            <element signature="e#23903#23910#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#25536#25543#0" expanded="true" />
-            <element signature="e#25589#25596#0" expanded="true" />
+            <element signature="e#25554#25561#0" expanded="true" />
+            <element signature="e#25607#25614#0" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#39892#39897#0" expanded="true" />
+            <element signature="e#39910#39915#0" expanded="true" />
             <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -531,128 +798,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resorts/sydney/location.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="294" column="88" lean-forward="false" selection-start-line="294" selection-start-column="88" selection-end-line="294" selection-end-column="88" />
+        <state relative-caret-position="448">
+          <caret line="314" column="83" lean-forward="false" selection-start-line="314" selection-start-column="83" selection-end-line="314" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/location.html">
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/special-offers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="315" column="44" lean-forward="true" selection-start-line="315" selection-start-column="44" selection-end-line="315" selection-end-column="44" />
+        <state relative-caret-position="125">
+          <caret line="285" column="53" lean-forward="false" selection-start-line="285" selection-start-column="47" selection-end-line="285" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/rooms.html">
+    <entry file="file://$PROJECT_DIR$/special-offers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="293" column="50" lean-forward="false" selection-start-line="293" selection-start-column="50" selection-end-line="293" selection-end-column="50" />
+        <state relative-caret-position="119">
+          <caret line="285" column="65" lean-forward="false" selection-start-line="285" selection-start-column="65" selection-end-line="285" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/our-property.html">
+    <entry file="file://$PROJECT_DIR$/groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="291" column="50" lean-forward="false" selection-start-line="291" selection-start-column="50" selection-end-line="291" selection-end-column="50" />
+        <state relative-caret-position="782">
+          <caret line="100" column="53" lean-forward="false" selection-start-line="100" selection-start-column="53" selection-end-line="100" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/special-offers.html">
+    <entry file="file://$PROJECT_DIR$/stay-at-space.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="296" column="48" lean-forward="false" selection-start-line="296" selection-start-column="48" selection-end-line="296" selection-end-column="48" />
+        <state relative-caret-position="203">
+          <caret line="282" column="57" lean-forward="true" selection-start-line="282" selection-start-column="47" selection-end-line="282" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="81" column="49" lean-forward="false" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/partnerships.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/privacy-policy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="440" column="13" lean-forward="false" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="13" />
-          <folding>
-            <element signature="e#20231#20238#0" expanded="true" />
-            <element signature="e#20340#20347#0" expanded="true" />
-            <element signature="e#20403#20410#0" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41559#41564#0" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="432" column="13" lean-forward="true" selection-start-line="280" selection-start-column="3" selection-end-line="432" selection-end-column="13" />
-          <folding>
-            <marker date="1505340231846" expanded="true" signature="32874:32971" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/sydney.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="437" column="13" lean-forward="true" selection-start-line="285" selection-start-column="3" selection-end-line="437" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2522">
-          <caret line="460" column="0" lean-forward="true" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
-          <folding>
-            <element signature="e#19930#19937#0" expanded="true" />
-            <element signature="e#20039#20046#0" expanded="true" />
-            <element signature="e#20102#20109#0" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#37881#37886#0" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/rooms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="865" column="21" lean-forward="true" selection-start-line="854" selection-start-column="12" selection-end-line="865" selection-end-column="21" />
+        <state relative-caret-position="1190">
+          <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
           <folding />
         </state>
       </provider>
