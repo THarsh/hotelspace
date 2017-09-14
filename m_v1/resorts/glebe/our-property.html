@@ -1,0 +1,885 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+	    <title>Affordable Hotels in Downtown Sydney Australia | Hotel Space</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <meta http-equiv="content-style-type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="With locations in convient downtown locations, Hotel Space offers affordable hotels during the best time to be in the  city,  the summer. Visit our webpage to learn more about us." />
+	<link rel="alternate" href="http://www.hotelspace.com.au/m/">
+
+	<!-- Metatag for Facebook Sharing -->
+	<meta property="og:title" content="Affordable Hotels in Downtown Sydney Australia | Hotel Space"/>
+
+		<meta property="og:image" content="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/home1-590a2fd424274-472x630.jpg"/>
+	<meta property="og:image:width" content="472"/>
+	<meta property="og:image:height" content="630"/>
+	<meta property="og:url" content="http://www.hotelspace.com.au/"/>
+	<meta property="og:site_name" content="Brand Level | FreeSpace"/>
+	<meta property="og:description" content="With locations in convient downtown locations, Hotel Space offers affordable hotels during the best time to be in the  city,  the summer. Visit our webpage to learn more about us."/>
+
+
+	<!-- ADD NOFOLLOW ON DEV LINKS -->
+        <link rel="shortcut icon" href="http://www.hotelspace.com.au/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.hotelspace.com.au/favicon.ico" type="image/x-icon">
+
+	<!-- DEFAULT STYLESHEETS | BOOTSTRAP - UI - FONTAWESOME - FANCYBOX -->
+	<link rel="stylesheet" media="screen" type="text/css" href="http://www.symphonyhotelmarketing.com/frontend/assets/global.css" />
+
+    <!-- UNIQUE CLIENT SITE STYLESHEET -->
+	<link rel="stylesheet" media="screen" type="text/css" href="http://www.hotelspace.com.au/assets/style.css" />
+
+
+	<!-- DEFAULT JAVASCRIPT VARIABLES-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script lang="text/javascript">
+	    var site_url = 'http://www.hotelspace.com.au/';
+	    var is_live = '1';
+	    var IS_LIVE = '1';
+	    var list_id = 'f67f3d2de2';
+	    var latitude = '-33.898799';
+	    var longitude = '151.176229';
+
+	    url_protocol = 'http';
+
+		if(location.protocol=='https:')
+		{
+			url_protocol = 'https';
+		}
+		var CLIENT_FOLDER = 'hotel-space/';
+		if (document.domain.indexOf('tambourine') > 0 || document.domain.indexOf('symphony.dev') > 0)
+		{
+			var SITE_ROOT = url_protocol+'://'+document.domain+'/'+CLIENT_FOLDER;
+			var ROOT_PATH = '/'+CLIENT_FOLDER;
+			var SITE_FILES = SITE_ROOT+'/assets/';
+			var FRONTEND_ROOT = url_protocol + '://' + document.domain + '/frontend/';
+		}
+		else
+		{
+			var SITE_ROOT = url_protocol+'://'+document.domain+'/';
+			var ROOT_PATH = '/';
+		    var SITE_FILES = SITE_ROOT+'/assets/';
+			var FRONTEND_ROOT = url_protocol + '://www.symphonyhotelmarketing.com/frontend/';
+		}
+	</script>
+
+	<!-- ADD SCRIPT OF SPECIFIC PAGE | CMS PAGE JS -->
+
+	<!-- ADD ANALYTICS CODE IF SITE IS LIVE -->
+	<script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+					ga('create', 'UA-97726530-1', 'auto', {'allowLinker': true});
+					ga('require', 'linker');
+					ga('linker:autoLink', ['reztrip.com', 'reztripmobile.com']);
+					ga('require', 'linkid', 'linkid.js');
+					ga('require', 'displayfeatures');
+					ga('send', 'pageview');
+
+
+			</script>
+
+
+<meta name="google-site-verification" content="slA3M_rCaXlY70UTDm1kIVgxR_zxvFlrjGKmM81gjG0" />    </head>
+    <body id="home" class="  brand-site">
+    	<div id="start-content" itemscope itemtype="http://schema.org/LocalBusiness">
+		<header id="header">
+		  	<div class="wrapper inner">
+				<a href="http://www.hotelspace.com.au/" class="logo">Brand Level | FreeSpace</a>
+				<nav id="primary-nav">
+    <ul>
+	    <li class="resorts"><a href="http://www.hotelspace.com.au/stay-at-space">Stay</a>
+			<ul class="submenu">
+				<li><a href="http://www.hotelspace.com.au/resorts/newtown">Newtown Space</a></li>
+				<li><a href="http://www.hotelspace.com.au/resorts/sydney">Sydney Space</a></li>
+				<li><a href="http://www.hotelspace.com.au/resorts/glebe">Glebe Space</a></li>
+				<li><a href="http://www.hotelspace.com.au/resorts/racecourse">Racecourse Space</a></li>
+							</ul>
+		</li>
+
+                <li class="primary-nav-1"><a  href="http://www.hotelspace.com.au/rooms"  class=" ">Rooms</a>
+                                    </li>
+
+                <li class="primary-nav-2"><a  href="/special-offers"  class=" ">Offers</a>
+                                    </li>
+
+                <li class="primary-nav-3"><a  href="http://www.hotelspace.com.au/photo-gallery"  class=" ">Photos</a>
+                                    </li>
+
+                <li class="primary-nav-4"><a  href="http://www.hotelspace.com.au/our-property"  class=" ">Our Property</a>
+                                    </li>
+
+                <li class="primary-nav-5"><a  href="http://www.hotelspace.com.au/location"  class=" ">Location</a>
+                                    </li>
+                    </ul>
+</nav>				<div class="book-trigger animated">Check Availability</div>
+<form method="get" id="booking-form" action="" target="_blank">
+	<img src="http://www.hotelspace.com.au/assets/images/icon-close.png" class="close" alt="Close Icon">
+	<input type="hidden" name="propertyID" value="">
+	<div class="notice">
+		Reserve<br>Your Stay
+	</div>
+	<div class="opens">
+		Opening December 2017
+	</div>
+	<div class="form-entry date checkin">
+		<label for="CheckIn" class="hidden">Arrival</label>
+    	<input type="text" name="arrival_date" id="CheckIn" placeholder="Arrival">
+	</div>
+	<div class="form-entry date checkout">
+		<label for="CheckOut" class="hidden">Departure</label>
+        <input type="text" name="departure_date" id="CheckOut" placeholder="Departure">
+    </div>
+	<div class="form-entry date checkout">
+		<div class="error-dest">Please select a Property</div>
+		<label for="property" class="hidden">Property</label>
+        <select name="property" id="property" required>
+        	<option value="null">Select Property</option>
+        	<option value="newtown">Newtown Space</option>
+        	<option value="sydney">Sydney Space</option>
+        	<option value="glebe">Glebe Space</option>
+        	<option value="racecourse">Racecourse Space</option>
+        </select>
+    </div>
+    <div class="submit form-entry">
+		<input type="submit" value="Check Availability" class="bookNow btn white">
+    </div>
+</form>
+
+
+<script>
+    $(document).ready(function() {
+
+        $(document).on('click', "#booking-form .bookNow", function(e) {
+
+            e.stopPropagation();
+            e.preventDefault();
+
+            var property_id = '';
+            var formAction = '';
+            var fields = {};
+            var analytics = '';
+
+            property_id = $('#booking-form select[name=property]').val();
+            analytics = $('#booking-form select[name=property] option:selected').text();
+
+            console.log(analytics);
+
+			if ($('#property').val() !== 'null') {
+	            if (analytics == 'Newtown Space') {
+	                formAction = 'https://hotelspacenewtown.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn").val();
+	                fields['departure_date'] = $("#CheckOut").val();
+	                submitForm(formAction, fields, analytics);
+	            } else if (analytics == 'Sydney Space') {
+	                formAction = 'https://hotelspacesydney.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn").val();
+	                fields['departure_date'] = $("#CheckOut").val();
+	                submitForm(formAction, fields, analytics);
+	            } else if (analytics == 'Glebe Space') {
+	                formAction = 'https://hotelspaceglebe.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn").val();
+	                fields['departure_date'] = $("#CheckOut").val();
+	                submitForm(formAction, fields, analytics);
+	            } else if (analytics == 'Racecourse Space') {
+	                formAction = 'https://hotelspaceracecourse.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn").val();
+	                fields['departure_date'] = $("#CheckOut").val();
+	                submitForm(formAction, fields, analytics);
+	            }
+	            $('#booking-form .error-dest').fadeOut();
+				return false;
+			} else {
+				$('#booking-form .error-dest').fadeIn();
+			}
+		});
+		$('#property').change(function(){
+	        $('#booking-form .error-dest').fadeOut();
+	    });
+    });
+
+    function submitForm(act, fields, analytics) {
+        var form = document.createElement("form");
+        form.className = "hidden";
+        form.method = "GET";
+        form.action = act;
+
+        $.each(fields, function(idx,value){
+           var element = document.createElement("input");
+           console.log(idx + ' : ' + value);
+           element.value = value;
+           element.name = idx;
+           form.appendChild(element);
+        });
+
+        document.body.appendChild(form);
+		destinationUrl = form.action;
+		str = $(form).serialize();
+		fullUrl = destinationUrl+ "?" + str;
+		window.open(fullUrl, '_blank'); //remove this live when going live and uncomment code below
+
+        /*
+        if (typeof ga == 'function') {
+           ga('send', 'event', 'header widget', analytics, 'book now');
+        }
+       ga(function(tracker) {
+       		var linker = new window.gaplugins.Linker(tracker);
+	   		var output = linker.decorate(fullUrl, true);
+	   		window.open(output, '_blank');
+
+       	}); */
+    }
+</script>
+
+
+
+			</div>
+	    </header>
+<!-- !#content -->
+<div id="content" class="wrapper">
+
+	<!-- !.top-content -->
+	<div class="top-content">
+		<div class="uvp">
+			<span>Give Summer In The City <Br>The Space It Deserves</span>Sydney, Newtown, Glebe, Racecourse
+			<div class="arrow-home"></div>
+		</div>
+		<div class="header-img sym-slides" data-slick='{"arrows": false, "dots": false, "autoplay": true, "autoplaySpeed": 4000, "speed": 500, "fade": true, "accessibility": false}'>
+																						<div class="sym-slide slide0">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/home1-590a2fd424274.jpg" alt="Brand Level | FreeSpace 0">
+						</div>
+																										<div class="sym-slide slide1">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/home2-590a2fd585c34.jpg" alt="Brand Level | FreeSpace 1">
+						</div>
+																										<div class="sym-slide slide2">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/home3-590a2fd7404d8.jpg" alt="Brand Level | FreeSpace 2">
+						</div>
+																										<div class="sym-slide slide3">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/home4-590a2fd8b1cd2.jpg" alt="Brand Level | FreeSpace 3">
+						</div>
+																										<div class="sym-slide slide4">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/home5-590a2fda508ce.jpg" alt="Brand Level | FreeSpace 4">
+						</div>
+																																																																	</div>
+		<div class="bottom-bar clearfix">
+			<div class="col-sm-5 clock">
+				<input type="hidden" id="day" value="5">
+				<input type="hidden" id="month" value="12">
+				<input type="hidden" id="year" value="2017">
+				<input type="hidden" id="hour" value="23">
+				<input type="hidden" id="min" value="59">
+				<input type="hidden" id="sec" value="00">
+				<div class="ctnTimer">
+				    <div class="countdown cTimer">
+				        <div id="countdown_dashboard">
+				            <div class="dash days_dash">
+				                <div class="ctnDigits">
+				                    <div class="digit ddays1 dig1">0</div>
+				                    <div class="digit ddays2 dig2">0</div>
+				                    <div class="digit ddays3 dig3">0</div>
+				                    <div class="digitTxt">days</div>
+				                </div>
+				            </div>
+				            <div class="dash hours_dash">
+				                <div class="ctnDigits">
+				                    <div class="digit dhours1 dig1">0</div>
+				                    <div class="digit dhours2 dig2">0</div>
+				                    <div class="digitTxt">hrs</div>
+				                </div>
+				            </div>
+				            <div class="dash minutes_dash">
+				                <div class="ctnDigits">
+				                    <div class="digit dminutes1 dig1">0</div>
+				                    <div class="digit dminutes2 dig2">0</div>
+				                    <div class="digitTxt">min</div>
+				                </div>
+				            </div>
+				            <div class="dash seconds_dash last">
+				                <div class="ctnDigits ctnSeconds">
+				                    <div class="digit dseconds1 dig1">0</div>
+				                    <div class="digit dseconds2 dig2">0</div>
+				                    <div class="digitTxt">sec</div>
+				                </div>
+				            </div>
+				        </div>
+				        <div class="title">Until FreeSpace Opens</div>
+				    </div>
+				</div>
+			</div>
+			<div class="col-sm-7 widget">
+				<form method="get" id="booking-form-home" action="" target="_blank">
+	<div class="form-entry date checkin">
+		<label for="CheckIn2" class="hidden">Arrival</label>
+    	<input type="text" name="arrival_date" id="CheckIn2" placeholder="Arrival">
+	</div>
+	<div class="form-entry date checkout">
+		<label for="CheckOut2" class="hidden">Departure</label>
+        <input type="text" name="departure_date" id="CheckOut2" placeholder="Departure">
+    </div>
+	<div class="form-entry date checkout">
+		<div class="error-dest">Please select a Property</div>
+		<label for="property2" class="hidden">Property</label>
+        <select name="property" id="property2" required>
+        	<option value="null">Property</option>
+        	<option value="newtown">Newtown Space</option>
+        	<option value="sydney">Sydney Space</option>
+        	<option value="glebe">Glebe Space</option>
+        	<option value="racecourse">Racecourse Space</option>
+        </select>
+    </div>
+    <div class="submit form-entry">
+		<input type="submit" value="Check Availability" class="bookNow btn white">
+    </div>
+</form>
+
+
+<script>
+    $(document).ready(function() {
+
+        $(document).on('click', "#booking-form-home .bookNow", function(e) {
+
+            e.stopPropagation();
+            e.preventDefault();
+
+            var property_id = '';
+            var formAction = '';
+            var fields = {};
+            var analytics = '';
+
+            property_id = $('#booking-form-home select[name=property]').val();
+            analytics = $('#booking-form-home select[name=property] option:selected').text();
+
+			if ($('#property2').val() !== 'null') {
+	            if (analytics == 'Newtown Space') {
+	                formAction = 'https://hotelspacenewtown.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn2").val();
+	                fields['departure_date'] = $("#CheckOut2").val();
+	                submitFormHome(formAction, fields, analytics);
+	            } else if (analytics == 'Sydney Space') {
+	                formAction = 'https://hotelspacesydney.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn2").val();
+	                fields['departure_date'] = $("#CheckOut2").val();
+	                submitFormHome(formAction, fields, analytics);
+	            } else if (analytics == 'Glebe Space') {
+	                formAction = 'https://hotelspaceglebe.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn2").val();
+	                fields['departure_date'] = $("#CheckOut2").val();
+	                submitFormHome(formAction, fields, analytics);
+	            } else if (analytics == 'Racecourse Space') {
+	                formAction = 'https://hotelspaceracecourse.reztrip.com';
+	                fields['arrival_date'] = $("#CheckIn2").val();
+	                fields['departure_date'] = $("#CheckOut2").val();
+	                submitFormHome(formAction, fields, analytics);
+	            }
+	            $('#booking-form-home .error-dest').fadeOut();
+				return false;
+			} else {
+				$('#booking-form-home .error-dest').fadeIn();
+			}
+		});
+		$('#property2').change(function(){
+	        $('#booking-form-home .error-dest').fadeOut();
+	    });
+    });
+
+    function submitFormHome(act, fields, analytics) {
+        var form = document.createElement("form");
+        form.className = "hidden";
+        form.method = "GET";
+        form.action = act;
+
+        $.each(fields, function(idx,value){
+           var element = document.createElement("input");
+           console.log(idx + ' : ' + value);
+           element.value = value;
+           element.name = idx;
+           form.appendChild(element);
+        });
+
+        document.body.appendChild(form);
+		destinationUrl = form.action;
+		str = $(form).serialize();
+		fullUrl = destinationUrl+ "?" + str;
+		//window.open(fullUrl, '_blank'); //remove this live when going live and uncomment code below
+
+        if (typeof ga == 'function') {
+           ga('send', 'event', 'home booking', analytics, 'book now');
+        }
+       ga(function(tracker) {
+       		var linker = new window.gaplugins.Linker(tracker);
+	   		var output = linker.decorate(fullUrl, true);
+	   		window.open(output, '_blank');
+
+       	});
+    }
+</script>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- !.main-content -->
+	<div class="main-content">
+
+		<!-- !.intro-content -->
+    	<div class="intro-content">
+		    <div class="container">
+			    <div class="col-sm-12 col-sm-offset-0 col-md-5 col-md-offset-3">
+								        <p><span style="font-weight: 400;">This summer, kiss those couchsurfing blues goodbye and live like a local with a stay at Free Space. Reserve a stylish room at one of our four popup spots around </span><span style="font-weight: 400;">Sydney</span> <span style="font-weight: 400;">and enjoy a repurposed space</span><span style="font-weight: 400;"> that offers affordable accommodations without compromise. </span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Whether you want to hang ten at Coogee Beach or take ten exploring niche neighborhood haunts, our boho chic retreat is an effortless way to </span><span style="font-weight: 400;">stay </span><span style="font-weight: 400;">close to all the action. Make a mad dash to international sporting events, city centers or local pubs and clubs to c</span><span style="font-weight: 400;">elebrate fresh fare, live music and lowbrow art alongside locals at a variety of venues in and around the city.</span></p>		    	</div>
+			    <div class="col-md-4 col-sm-12">
+				    <div class="best-rate">
+					    <div class="title">Book Direct Benefits</div>
+					    <ul>
+						    <li class="wifi">Free WiFi</li>
+						    <li class="checkout">Late Check Out</li>
+						    <li class="upgrade">Room Upgrade<span>based on availability</span></li>
+					    </ul>
+				    </div>
+			    </div>
+		    </div>
+		</div>
+		<div class="properties">
+			<div class="container">
+				<h2>Our <span>four</span><br>sydney pop ups</h2>
+								<div class="unit col-sm-6">
+					<div class="img-holder">
+						<a href="http://www.hotelspace.com.au/resorts/newtown">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-NewtownSpace-58dd7a1f1ca36-555x278.jpg" alt="Newtown Space" class="img-responsive">
+							<div class="hover"></div>
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
+						<h3>Newtown Space</h3>
+					</div>
+					<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
+						<p>Located on the main campus, Newtown Space is in the heart of fashionable and cosmopolitan Newtown, just steps from great dining, shopping and entertainment on King Street.<!--... <a href="http://www.hotelspace.com.au/resorts/newtown">Continue Reading</a>--></p>
+						<a href="http://www.hotelspace.com.au/resorts/newtown" class="btn white">View Property</a>
+					</div>
+				</div>
+												<div class="unit col-sm-6">
+					<div class="img-holder">
+						<a href="http://www.hotelspace.com.au/resorts/sydney">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-SydneySpace-58dd7a472c80e-555x278.jpg" alt="Sydney Space" class="img-responsive">
+							<div class="hover"></div>
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
+						<h3>Sydney Space</h3>
+					</div>
+					<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
+						<p>FreeSpace Sydney is conveniently located at 10 Missenden Road in&nbsp;the bustling area of&nbsp;Camperdown. <!--... <a href="http://www.hotelspace.com.au/resorts/sydney">Continue Reading</a>--></p>
+						<a href="http://www.hotelspace.com.au/resorts/sydney" class="btn white">View Property</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>								<div class="unit col-sm-6">
+					<div class="img-holder">
+						<a href="http://www.hotelspace.com.au/resorts/glebe">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Glebe-Inset-Property-58dd63b1de1fd-555x278.jpg" alt="Glebe Space" class="img-responsive">
+							<div class="hover"></div>
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
+						<h3>Glebe Space</h3>
+					</div>
+					<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
+						<p>Glebe Space is tucked into Camperdown in close proximity to Bicentennial Park, the Saturday Market and dozens of variety of international cousine eateries.<!--... <a href="http://www.hotelspace.com.au/resorts/glebe">Continue Reading</a>--></p>
+						<a href="http://www.hotelspace.com.au/resorts/glebe" class="btn white">View Property</a>
+					</div>
+				</div>
+												<div class="unit col-sm-6">
+					<div class="img-holder">
+						<a href="http://www.hotelspace.com.au/resorts/racecourse">
+							<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-RacecourseSpace-58dd7a30b11ef-555x278.jpg" alt="Racecourse Space" class="img-responsive">
+							<div class="hover"></div>
+						</a>
+					</div>
+					<div class="col-sm-12 col-md-5 col-lg-4 no-gutter name">
+						<h3>Racecourse Space</h3>
+					</div>
+					<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
+						<p>Just six minutes away from the world-famous Coogee Beach, Racecourse Space is surrounded by the trendy cafes and vibrant nightlife.<!--... <a href="http://www.hotelspace.com.au/resorts/racecourse">Continue Reading</a>--></p>
+						<a href="http://www.hotelspace.com.au/resorts/racecourse" class="btn white">View Property</a>
+					</div>
+				</div>
+				<div class="clearfix"></div>							</div>
+			<div class="bottom"></div>
+		</div>
+		<div class="location-trio">
+			<div class="container">
+				<div class="quads clearfix">
+					<div class="col-sm-4 unit">
+						<h3>Newtown, <span>Sydney</span></h3>
+						<div class="desc">
+							<div class="over">
+								<p>An eclectic urban hub, Newtown is Sydney’s most vibrant inner city suburb. Join in the non-stop activity at neighboring parks, antique shops, and local pubs all within walking distance from your door.  </p>
+							</div>
+							<img src="http://www.hotelspace.com.au/assets/images/home/newtown-sidney.jpg" alt="Newtown Sydney">
+						</div>
+					</div>
+					<div class="col-sm-4 unit">
+						<div class="desc">
+							<div class="over">
+								<p>Lush green streets and historic architecture set the stage for the sprawling suburb of Glebe. Bohemian chic meets modern academia and the bustling streets - lined with cafes, bookstores and boutiques - consistently draw in a creative crowd.  </p>
+							</div>
+							<img src="http://www.hotelspace.com.au/assets/images/home/glebe-sydney.jpg" alt="Glebe Sydney">
+						</div>
+						<h3>Glebe, <span>Sydney</span></h3>
+					</div>
+					<div class="col-sm-4 unit">
+						<h3>Coogee, <span>Sydney</span></h3>
+						<div class="desc">
+							<div class="over">
+								<p>Laidback surf culture thrives at the very core of Coogee, a seaside suburb just outside of Sydney. Coogee Beach and the Tasman Sea lay towards the east, drawing in year round crowds for swimming, surfing and sunbathing along the scenic coast. </p>
+							</div>
+							<img src="http://www.hotelspace.com.au/assets/images/home/coogee-sidney.jpg" alt="Coogee Sydney">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="testimonials">
+			<div class="container">
+				<div class="quotes clearfix">
+					<h2>What our guests say</h2>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-6">
+						<div class="sym-slides" data-slick='{"arrows": false, "dots": true, "autoplay": true, "autoplaySpeed": 10000, "speed": 500, "fade": true, "accessibility": false}'>
+													<div class="testimonial">
+								<blockquote>Easy access to central station and city via bus (stop located outside). Close walk to Newtown. Convenience shop and petrol station close by. Located on the lovely University grounds.</blockquote>
+								<cite>- Hotel Guest I Glebe Space</cite>
+							</div>
+													<div class="testimonial">
+								<blockquote>It was very good value for money; good location - close to shops and Coogee Beach. Staff was helpful and we would certainly stay again.</blockquote>
+								<cite>- Hotel Guest I Racecourse Space</cite>
+							</div>
+													<div class="testimonial">
+								<blockquote>Simple, fairly basic and no frills. Clean, great location, helpful staff. Having the option of parking off street was a plus.</blockquote>
+								<cite>- Hotel Guest I Glebe Space</cite>
+							</div>
+													<div class="testimonial">
+								<blockquote>Staff were pleasant. Room was clean. Great access to King St Newtown, and therefore public transport to anywhere in the city. Will stay again. </blockquote>
+								<cite>- Crystal J. I Newtown Space</cite>
+							</div>
+												</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="amenities">
+			<div class="container">
+				<h2>features & amenities</h2>
+				<ul class="col-md-10 col-md-offset-1">
+					<li class="wifi wider">Free WiFi</li>
+					<li class="kitchen">Kitchen</li>
+					<li class="laundry">LAUNDRY</li>
+					<li class="parking">Parking</li>
+					<li class="inst wider">Historical <span>&</span> modern installations</li>
+					<li class="local">Great <br>Location</li>
+					<li class="courtyard">Scenic <br>Courtyard</li>
+					<li class="checkout">Late <br>Check-out</li>
+				</ul>
+			</div>
+		</div>
+		<div class="clearfix group-special">
+			<div class="groups col-sm-6 no-gutter">
+				<div class="col-sm-8 col-sm-offset-1 col-md-6 col-md-offset-3 no-gutter">
+					<div class="title">Group Bookings</div>
+					<h2>Gather Your Gang For A Great Sydney Getaway </h2>
+					<p>Planning a trip to Sydney for your school, sports team or group study experience? Let the Sydney insiders at FreeSpace help you with group reservations requiring ten or more guest rooms.</p>
+					<a href="http://www.hotelspace.com.au/groups/request-quote" class="btn white">Request for proposal</a>
+				</div>
+			</div>
+			<div class="special col-sm-6 no-gutter">
+												<a href="53189|53193|53196|53201" target="_blank">
+					<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Offers-ReferaFriend-58dd77e2d7d6a-555x278.jpg" alt="Refer a Friend and Both Get an Upgrade">
+				</a>
+				<div class="title">Special Offers</div>
+				<div class="offer">
+					<h3>Refer a Friend and Both Get an Upgrade</h3>
+					<p>Want to score a sweet deal? Simply refer a friend to FreeSpace and you'll both get a room upgrade! What could be easier than that?</p>
+<p><span>Offered at&nbsp;all FreeSpace properties.&nbsp;</span></p>
+<p><em>Terms: Offer does not apply December 27, 2016 - January 3, 2017.</em></p>					<!-- 					<a href="53189|53193|53196|53201" target="_blank" class="btn book-now dark">Check Availability</a> -->
+					<a href="http://www.hotelspace.com.au/special-offers" class="btn">View All Specials</a>
+				</div>
+							</div>
+		</div>
+		<div class="gallery">
+			<div class="container">
+				<a href="http://www.hotelspace.com.au/photo-gallery">
+					<div class="row">
+						<div class="col-sm-3 col-sm-offset-8"><img src="http://www.hotelspace.com.au/assets/images/home/gallery1.jpg" alt="Gallery 1"></div>
+					</div>
+					<div class="row group">
+						<div class="col-sm-3 equalize"><img src="http://www.hotelspace.com.au/assets/images/home/gallery2.jpg" alt="Gallery 2"></div>
+						<div class="col-sm-5 equalize"><img src="http://www.hotelspace.com.au/assets/images/home/gallery3.jpg" alt="Gallery 3"></div>
+						<div class="col-sm-4 equalize row-height"><div class="col-bottom col-height"><img src="http://www.hotelspace.com.au/assets/images/home/gallery4.jpg" alt="Gallery 4"></div></div>
+					</div>
+					<div class="row bottom">
+						<div class="col-sm-3"><div class="verbige">Chasing <span>Summer</span></div><img src="http://www.hotelspace.com.au/assets/images/home/gallery5.png" alt="Gallery 5"></div>
+						<div class="col-sm-4"><img src="http://www.hotelspace.com.au/assets/images/home/gallery6.jpg" alt="Gallery 6"></div>
+						<div class="col-sm-5"><img src="http://www.hotelspace.com.au/assets/images/home/gallery7.jpg" alt="Gallery 7"></div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+
+</div><!--/ #content -->
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+    "@type": "Place",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-33.898799",
+    "longitude": "151.176229"
+  },
+  "@context" : "http://schema.org",
+  "@type" : "hotel",
+  "name" : "Hotel Space",
+  "logo": "http://www.hotelspace.com.au/assets/images/hotel-space-bw-logo.png",
+  "image" : "http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/Newtown_Gallery-2-58482a2521abd.jpg",
+  "telephone" : "+61 2 9662 2785",
+  "email" : "info@hotelspace.com",
+  "description" : "This summer, kiss those couchsurfing blues goodbye and live like a local with a stay at Hotel Space. Reserve a stylish room at one of our four popup spots around Sydney and enjoy a repurposed space that offers affordable accommodations without compromise.  ",
+    "address" :{
+		    "@type" : "PostalAddress",
+		    "streetAddress" : "Western Avenue",
+		    "addressLocality" : "Camperdown",
+		    "addressRegion" : "New South Wales",
+		    "addressCountry" : "Australia ",
+		    "postalCode" : "2050",
+
+    "sameAs" : [ "https://plus.google.com/u/0/103925098139841942953", "https://www.facebook.com/HotelSpaceAustralia/?hc_ref=SEARCH"]
+    },
+  "url" : "http://www.hotelspace.com.au"
+}
+</script>
+
+<footer id="footer" class="wrapper">
+	<div class="sign-up">
+		<div class="container">
+			<form id="email-signup" class="clearfix">
+				<div class="col-sm-5 col-sm-offset-1">
+					<div class="title">SIGN UP FOR NEWS<br>& EXCLUSIVE OFFERS</div>
+				</div>
+				<div class="col-sm-5">
+					<div id="email-error"></div>
+					<label for="first_name_signup" class="hidden">First name</label>
+					<input type="text" id="first_name_signup" name="first_name_signup" placeholder="Your Name" style="width:35%;margin-right: 4%;"> <!-- Optional -->
+					<label for="email_address_signup" class="hidden">Email Address</label>
+				   	<input type="text" name="email_address_signup" id="email_address_signup" placeholder="Your Email" style="width: 60%">
+				   	<a href="javascript:void(0)" id="emailSignup" class="btn dark">Sign me in!</a>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="container">
+		<nav id="secondary-nav">
+    <ul>
+
+                <li class="secondary-nav-1"><a  href="http://www.hotelspace.com.au/about-hotel-space"  class=" "  >Our Brand</a>
+                                    </li>
+
+                <li class="secondary-nav-2"><a  href="http://www.hotelspace.com.au/partnerships"  class=" "  >Partnerships</a>
+                                    </li>
+
+                <li class="secondary-nav-3"><a  href="http://www.hotelspace.com.au/blog"  class=" "  >Blog</a>
+                                    </li>
+
+                <li class="secondary-nav-4"><a  href="http://www.hotelspace.com.au/faq"  class=" "  >FAQ</a>
+                                    </li>
+
+                <li class="secondary-nav-5"><a  href="http://www.hotelspace.com.au/contact-us"  class=" "  >Contact us</a>
+                                    </li>
+                    </ul>
+</nav>
+		<div class="clearfix">
+						<div class="social-media ">
+				<div class="title">Follow Us</div>
+				<ul class="list-inline">
+					<li><a href="https://plus.google.com/u/0/103925098139841942953" target="_blank" class="google">G+</a></li>
+					<li><a href="https://www.facebook.com/HotelSpaceAustralia/?hc_ref=SEARCH" target="_blank" class="facebook">Facebook</a></li>
+					<li><a href="" target="_blank" class="instagram">Instagram</a></li>
+				</ul>
+<!--
+				<ul class="list-inline">
+					<li><a href="https://plus.google.com/u/0/103925098139841942953" target="_blank" class="google"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.42 76.52"><title>Symphony-Icons-SocialMedia-4</title><g id="CalendarWidget"><path d="M38.26,76.52A38.26,38.26,0,1,1,64,9.95c-8,7.54-7.73,8-10.9,11.15a21.47,21.47,0,0,0-14.82-5.57A22.36,22.36,0,0,0,15.9,38.26,22.35,22.35,0,0,0,38.26,60.94c12.35,0,17.42-5.32,20.65-15.14H38.26V30.66H75C77.53,49,69.81,76.52,38.26,76.52Z"/><polygon points="120.42 40.86 107.18 40.86 107.18 54.54 97.68 54.54 97.68 40.86 84.06 40.86 84.06 31.42 97.68 31.42 97.68 18.18 107.18 18.18 107.18 31.42 120.42 31.42 120.42 40.86"/></g></svg></a></li>
+					<li><a href="https://www.facebook.com/HotelSpaceAustralia/?hc_ref=SEARCH" target="_blank" class="facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.98 107.74"><title>Symphony-Icons-SocialMedia-3</title><g id="CalendarWidget"><path d="M0,35.63H11.14V24.8c0-4.77.12-12.13,3.59-16.69C18.38,3.28,23.39,0,32,0,46.07,0,52,2,52,2L49.2,18.51a37.62,37.62,0,0,0-9-1.34C35.89,17.16,32,18.72,32,23V35.63H49.78L48.54,51.75H32v56H11.14v-56H0Z"/></g></svg></a></li>
+					<li><a href="" target="_blank" class="instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.69 107.69"><title>Symphony-Icons-SocialMedia-5</title><g id="CalendarWidget"><path d="M53.84,9.7c14.38,0,16.08.05,21.76.31a29.79,29.79,0,0,1,10,1.85,16.68,16.68,0,0,1,6.19,4,16.68,16.68,0,0,1,4,6.19,29.79,29.79,0,0,1,1.85,10c.26,5.68.31,7.38.31,21.76s-.05,16.08-.31,21.76a29.79,29.79,0,0,1-1.85,10A17.83,17.83,0,0,1,85.6,95.82a29.79,29.79,0,0,1-10,1.85c-5.68.26-7.38.31-21.76.31s-16.08-.05-21.76-.31a29.79,29.79,0,0,1-10-1.85,16.68,16.68,0,0,1-6.19-4,16.68,16.68,0,0,1-4-6.19A29.79,29.79,0,0,1,10,75.6c-.26-5.68-.31-7.38-.31-21.76s.05-16.08.31-21.76a29.79,29.79,0,0,1,1.85-10,16.68,16.68,0,0,1,4-6.19,16.68,16.68,0,0,1,6.19-4,29.79,29.79,0,0,1,10-1.85c5.68-.26,7.38-.31,21.76-.31m0-9.7C39.22,0,37.39.06,31.64.32a39.52,39.52,0,0,0-13.07,2.5A26.39,26.39,0,0,0,9,9a26.39,26.39,0,0,0-6.21,9.54A39.52,39.52,0,0,0,.32,31.64C.06,37.39,0,39.22,0,53.84S.06,70.3.32,76a39.52,39.52,0,0,0,2.5,13.07A26.39,26.39,0,0,0,9,98.65a26.39,26.39,0,0,0,9.54,6.21,39.52,39.52,0,0,0,13.07,2.5c5.74.26,7.58.32,22.2.32s16.46-.06,22.2-.32a39.52,39.52,0,0,0,13.07-2.5,27.53,27.53,0,0,0,15.75-15.75A39.52,39.52,0,0,0,107.36,76c.26-5.74.32-7.58.32-22.2s-.06-16.46-.32-22.2a39.52,39.52,0,0,0-2.5-13.07A26.39,26.39,0,0,0,98.65,9a26.39,26.39,0,0,0-9.54-6.21A39.52,39.52,0,0,0,76,.32C70.3.06,68.47,0,53.84,0Z"/><path d="M53.84,26.19A27.65,27.65,0,1,0,81.49,53.84,27.65,27.65,0,0,0,53.84,26.19Zm0,45.6A17.95,17.95,0,1,1,71.79,53.84,17.95,17.95,0,0,1,53.84,71.79Z"/><circle cx="82.59" cy="25.1" r="6.46"/></g></svg></a></li>
+					<li><a href="" target="_blank" class="twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.92 87.71"><title>Symphony-Icons-SocialMedia-1</title><g id="CalendarWidget"><path d="M107.92,10.38a44.28,44.28,0,0,1-12.72,3.49,22.16,22.16,0,0,0,9.73-12.25A44.23,44.23,0,0,1,90.88,7,22.16,22.16,0,0,0,53.15,27.18,62.85,62.85,0,0,1,7.51,4a22.18,22.18,0,0,0,6.85,29.57,22.15,22.15,0,0,1-10-2.77v.27A22.14,22.14,0,0,0,22.1,52.83a21.61,21.61,0,0,1-5.84.78,22,22,0,0,1-4.16-.39A22.14,22.14,0,0,0,32.78,68.59a44.41,44.41,0,0,1-27.5,9.48A44.45,44.45,0,0,1,0,77.76a62.73,62.73,0,0,0,33.94,9.94c40.73,0,63-33.73,63-63,0-1,0-1.92-.06-2.86a44.88,44.88,0,0,0,11-11.46"/></g></svg></a></li>
+				</ul>
+-->
+			</div>
+		</div>
+				<div class="clearfix">
+			<div class="other-properties col-sm-12 no-gutter">
+				<div class="title">Space properties:</div>
+				<a href="http://www.hotelspace.com.au/resorts/sydney">
+					<div class="unit">
+						<div class="title">Sydney Space</div>
+						<p>10 Missenden Road<br>
+	Camperdown, New South Wales 2050</p>
+					</div>
+				</a>
+				<a href="http://www.hotelspace.com.au/resorts/glebe">
+					<div class="unit">
+						<div class="title">Glebe Space</div>
+						<p>8 Missenden Rd<br>
+	Camperdown, 2050</p>
+					</div>
+				</a>
+				<a href="http://www.hotelspace.com.au/resorts/newtown">
+					<div class="unit">
+						<div class="title">Newtown Space</div>
+						<p>Western Avenue<br>
+	Camperdown , New South Wales 2050</p>
+					</div>
+				</a>
+				<a href="http://www.hotelspace.com.au/resorts/racecourse">
+					<div class="unit">
+						<div class="title">Racecourse Space</div>
+						<p>Figtree Hall, 5 High Street<br>
+	Kensington, New South Wales 2052</p>
+					</div>
+				</a>
+			</div>
+		</div>
+				<div class="copyright">
+			<div class="col-sm-8 no-gutter">Copyright &copy; 2017 FreeSpace. All Rights Reserved. <nav id="third-nav">
+    <ul>
+                                                        <li class="third-nav-1"><a  href="http://www.hotelspace.com.au/privacy-policy"  class=" "  >Privacy Policy</a></li>
+                                </ul>
+</nav></div>
+		<div class="col-sm-4 no-gutter">
+			<a href="http://www.tambourine.com/services/" target="_blank" class="tambourine">Hotel Web Design by <img src="http://www.hotelspace.com.au/assets/images/tambourine-logo.png" alt="tambourine"></a>
+		</div>
+	</div>
+</footer>
+</div> <!-- CLOSE START CONTENT -->
+<!-- Global jQuery libraries -->
+<script src="http://www.symphonyhotelmarketing.com/frontend/assets/global.js" type="text/javascript"></script>
+
+
+
+<!-- SPECIFIC CLIENT JQUERY SCRIPTS -->
+<script src="http://www.hotelspace.com.au/assets/scripts.js" type="text/javascript"></script>
+
+<!-- POPUP SCRIPT -->
+<script src="http://www.symphonyhotelmarketing.com/frontend/includes/js/jquery-validate/jquery.validate.min.js"></script>
+<script src="http://www.symphonyhotelmarketing.com/frontend/includes/js/bioep.min.js"></script>
+<script>
+
+    bioEp.init({
+        delay: 0,
+        popupId: 514,
+        minPages: 3,
+        script: 'http://www.hotelspace.com.au/ajax/functions.php',
+        cookieExp: 360,
+        css: " [data-em=modal-container] {      width: 675px;      height: 445px;      overflow: hidden;      background-image: url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/exit-intent-background-59a5e26feb28e.jpg);      background-repeat: no-repeat;      text-align: center;      padding-top: 40px;  }    [data-em=modal-container] [data-em='input-container'] {      margin: 50px auto 0;      width: 90%;  }    [data-em=modal-container] [data-em='input-container'] .template-inputs {      display: inline-block;      width: 49%;  }    [data-em=modal-container] input {      text-align: center;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      font-size: 14px;      color: #7d715e!important;      background-color: transparent;      padding: 0 10px;      display: block;      width: 100%;      height: 40px;      border: 1px solid #a29e9b;  }    ::-webkit-input-placeholder {      color: #7d715e;  }    :-moz-placeholder {      color: #7d715e;      opacity: 1;  }    ::-moz-placeholder {      color: #7d715e;      opacity: 1;  }    :-ms-input-placeholder {      color: #7d715e;  }    [data-em=modal-container] [data-em=logo] {      max-width: 100%;      max-height: 40px;  }    [data-em=modal-container] [data-em=text-line-1] {      color: #f2545b;      font-size: 67px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      font-family: 'DK Kitsune Tail';      margin-top: 10px;  }    [data-em=modal-container] [data-em=text-line-1-5] {      color: #48545b;      font-size: 60px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      letter-spacing: 3px;      margin-top: 35px;      margin-left: 15px;  }    [data-em=modal-container] [data-em=text-line-2] {      color: #1f385a;      letter-spacing: 3px;      font-size: 30px;      text-transform: uppercase;      line-height: 25px;      margin-top: 50px;      margin-bottom: 10px;      text-align: center;      font-family: 'Houschka Alt Bold';      -webkit-font-smoothing: antialiased;      padding: 0 5%;  }    [data-em=modal-container] [data-em=text-line-3] {      color: #48545b;      font-size: 13px;      line-height: 25px;      margin-left: 170px;      text-align: left;      -webkit-font-smoothing: antialiased;      padding: 0 5%;      letter-spacing: 2px;  }    [data-em=modal-container] [data-em=button] {      color: #ffffff;      text-decoration: none;      background-color: #f2545b;      font-family: 'Houschka Alt Bold';      letter-spacing: 1px;      font-size: 13px;      margin-top: 10px;      width: 100%;      display: block;      padding: 13px 0;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      text-align: center;      cursor: pointer;      transition: all 100ms;      text-transform: uppercase;      border: 1px solid #f2545b;  }    [data-em=modal-container] [data-em=button]:active {      -webkit-box-shadow: none!important;      -moz-box-shadow: none!important;      box-shadow: none!important;      top: 3px;  }    [data-em=modal-container] div.close-link {      margin-top: 40px;      color: #1f385a;      font-family: 'Houschka Alt Bold';      text-transform: uppercase;      border-bottom: 1px solid;      font-size: 12px;      display: inline-block;      cursor: pointer;      letter-spacing: 1px;  } "
+
+
+    });
+
+    $(document).ready(function(){
+
+        $("#submit-button").click(function(){
+
+			var redirect = "";
+            var valid = true;
+            var modal_container = $("div[data-em=\"modal-container\"]");
+            redirect = $("#submit-button").attr("data-redirect");
+            $("span.error").remove();
+
+            $( ':input[type=text]', modal_container).each(function(){
+                if (this.value === '') {
+                    valid = false;
+                }
+            });
+            $( ':input[type=email]', modal_container).each(function(){
+                if (this.value === '') {
+                    valid = false;
+                }
+            });
+
+            if (valid) {
+
+                var data = $("input", modal_container).serializeArray();
+                data.push({name:'popupid', value:514});
+                data.push({name:'operation', value:'processExitIntent'});
+                data.push({name:'subscribe', value:'yes'});
+
+                $.post('http://www.hotelspace.com.au/ajax/functions.php', $.param(data), function (resp) {
+                    if (resp.error) {
+                        //alert('Error');
+                        console.log(resp.msg);
+                    } else {
+	                    if(redirect != '' && redirect != undefined) {
+		                    window.location.href = redirect;
+	                    } else {
+	                        bioEp.showThankYou();
+	                    }
+//                        bioEp.hidePopup();
+                    }
+                }, 'json');
+
+            } else {
+                $("<span class='error'>All fields are required</span>").insertBefore("#submit-button")
+            }
+
+        });
+
+        $("#close-link, .close-popup").click(function(){
+            bioEp.hidePopup();
+        });
+
+                    $(document).on('click', "#bio_ep_bg", function(){
+                bioEp.hidePopup();
+            });
+
+    });
+
+</script>
+
+<div id="bio_ep" style="display: none">
+    <div data-em="modal-container" data-template-type="collect-email">
+<div data-em="text-line-1" class="text-line-1">Leaving so soon?</div>
+<div data-em="text-line-2" class="text-color">sign up to receive<br />special offers &amp; discounts</div>
+<div data-em="input-container">
+<div class="template-inputs input-name"><label for="exit_name" style="display: none;">Name</label><input name="name" id="exit_name" placeholder="Enter Name Here" required="required" type="text" /></div>
+<div class="template-inputs input-email"><label for="exit_email" style="display: none;">Email Address</label><input name="email" id="exit_email" placeholder="Enter Email Address Here" required="required" type="email" /></div>
+<button data-em="button" onclick="ga('send', 'event', 'exit intent', 'click', 'submit')" type="submit" class="submit btn-bg-color" id="submit-button"> Yes, please send them to me! </button></div>
+<div data-em="modal-close-link" class="close close-link text-color" id="close-link" onclick="ga('send', 'event', 'exit intent', 'click', 'decline')">No, I don't want to receive special offers</div>
+</div>
+<p></p></div>
+
+<div id="bio_ep_thanks">
+    <h1 style="color:#fff;">Thank You</h1>
+</div>
+
+
+
+
+<!-- CUSTOM SCRIPTS TO ALL PAGES | NORMALLY USED FOR PIXEL TRACKING AND OTHER THIRD PARTY SCRIPTS -->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5963ddc86edc1c10b034553a/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3ba8258ba6","applicationID":"11881292","transactionName":"MgQGZEZYXhFXVRdcDAtOMUJdFlkMUlMbGxMNEQ==","queueTime":0,"applicationTime":272,"atts":"HkMFEg5CTR8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
