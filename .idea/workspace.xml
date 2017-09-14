@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/groups.html" afterPath="$PROJECT_DIR$/groups.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo-gallery.html" afterPath="$PROJECT_DIR$/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-offers.html" afterPath="$PROJECT_DIR$/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,44 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="82" column="75" lean-forward="true" selection-start-line="82" selection-start-column="75" selection-end-line="82" selection-end-column="75" />
+            <state relative-caret-position="204">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="groups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/groups.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="100" column="88" lean-forward="true" selection-start-line="100" selection-start-column="88" selection-end-line="100" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="special-offers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/special-offers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="304" column="89" lean-forward="false" selection-start-line="304" selection-start-column="89" selection-end-line="304" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photo-gallery.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/photo-gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="327" column="0" lean-forward="true" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
-              <folding>
-                <marker date="1505412944785" expanded="true" signature="35683:35780" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +31,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>symphonyhotelmarketing</find>
       <find>twin</find>
       <find>assets/scripts.js</find>
       <find>global</find>
@@ -95,6 +60,7 @@
       <find>CoogeeFestival-58471ea27e066-472x630.jpg</find>
       <find>head</find>
       <find>header</find>
+      <find>brand-site</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,7 +90,6 @@
         <option value="$PROJECT_DIR$/resorts/racecourse/location.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/rooms.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
@@ -139,6 +104,7 @@
         <option value="$PROJECT_DIR$/groups.html" />
         <option value="$PROJECT_DIR$/special-offers.html" />
         <option value="$PROJECT_DIR$/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -280,12 +246,12 @@
       <workItem from="1504975433924" duration="5235000" />
       <workItem from="1505015656261" duration="14557000" />
       <workItem from="1505322881598" duration="11813000" />
-      <workItem from="1505396976742" duration="15288000" />
+      <workItem from="1505396976742" duration="16071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47694000" />
+    <option name="totallyTimeSpent" value="48477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -789,18 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="82" column="75" lean-forward="true" selection-start-line="82" selection-start-column="75" selection-end-line="82" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="100" column="88" lean-forward="true" selection-start-line="100" selection-start-column="88" selection-end-line="100" selection-end-column="88" />
+        <state relative-caret-position="294">
+          <caret line="97" column="85" lean-forward="false" selection-start-line="97" selection-start-column="79" selection-end-line="97" selection-end-column="85" />
           <folding />
         </state>
       </provider>
@@ -815,11 +773,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/photo-gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="327" column="0" lean-forward="true" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
+        <state relative-caret-position="2471">
+          <caret line="317" column="26" lean-forward="false" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
           <folding>
             <marker date="1505412944785" expanded="true" signature="35683:35780" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
