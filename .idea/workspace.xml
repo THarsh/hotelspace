@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/event-calendar.html" afterPath="$PROJECT_DIR$/resorts/glebe/event-calendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" afterPath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
-    </list>
+    <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,12 +317,12 @@
       <workItem from="1505015656261" duration="14557000" />
       <workItem from="1505322881598" duration="11813000" />
       <workItem from="1505396976742" duration="16674000" />
-      <workItem from="1505479015074" duration="15286000" />
+      <workItem from="1505479015074" duration="15884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64366000" />
+    <option name="totallyTimeSpent" value="64964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
