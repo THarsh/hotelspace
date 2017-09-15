@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta name="keywords" content="" />
 <meta name="description" content="Hotel Space Newtown let you stay in downtown Sydney for an affordable price, located near the King street with a wide variety of shopping stores and restaurants. " />
-<link rel="canonical" href="http://www.hotelspace.com.au/resorts/newtown">
+<link rel="canonical" href="resorts/newtown.html">
 <!-- DEFAULT STYLESHEETS-->
 <link rel="stylesheet" media="handheld, screen" href="../../../main_assets/frontend/m/includes/css/default.min.css" /><!-- Default.css + slick.css -->
 <link rel="stylesheet" media="handheld, screen" href="../../includes/css/style.css?59b9e33bdd373" />
@@ -16,7 +16,7 @@
 <script>
 	var SITE_ROOT = 'http://'+document.domain+'/';
 	var CLIENT_FOLDER = 'hotel-space/';
-	var site_url = 'http://www.hotelspace.com.au/';
+	var site_url = '';
 	var is_live = '1';
 	var list_id = 'f67f3d2de2';
 	var latitude = '-33.88845';
@@ -46,7 +46,7 @@
         delay: 0,
         popupId: 516,
         minPages: 3,
-        script: 'http://www.hotelspace.com.au/ajax/functions.php',
+        script: '../../../ajax/functions.php',
         cookieExp: 360,
         css: " [data-em=modal-container] {      width: 675px;      height: 445px;      overflow: hidden;      background-image: url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/exit-intent-background-59a5e26feb28e.jpg);      background-repeat: no-repeat;      text-align: center;      padding-top: 40px;  }    [data-em=modal-container] [data-em='input-container'] {      margin: 50px auto 0;      width: 90%;  }    [data-em=modal-container] [data-em='input-container'] .template-inputs {      display: inline-block;      width: 49%;  }    [data-em=modal-container] input {      text-align: center;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      font-size: 14px;      color: #7d715e!important;      background-color: transparent;      padding: 0 10px;      display: block;      width: 100%;      height: 40px;      border: 1px solid #a29e9b;  }    ::-webkit-input-placeholder {      color: #7d715e;  }    :-moz-placeholder {      color: #7d715e;      opacity: 1;  }    ::-moz-placeholder {      color: #7d715e;      opacity: 1;  }    :-ms-input-placeholder {      color: #7d715e;  }    [data-em=modal-container] [data-em=logo] {      max-width: 100%;      max-height: 40px;  }    [data-em=modal-container] [data-em=text-line-1] {      color: #f2545b;      font-size: 67px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      font-family: 'DK Kitsune Tail';      margin-top: 10px;  }    [data-em=modal-container] [data-em=text-line-1-5] {      color: #48545b;      font-size: 60px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      letter-spacing: 3px;      margin-top: 35px;      margin-left: 15px;  }    [data-em=modal-container] [data-em=text-line-2] {      color: #1f385a;      letter-spacing: 3px;      font-size: 30px;      text-transform: uppercase;      line-height: 25px;      margin-top: 50px;      margin-bottom: 10px;      text-align: center;      font-family: 'Houschka Alt Bold';      -webkit-font-smoothing: antialiased;      padding: 0 5%;  }    [data-em=modal-container] [data-em=text-line-3] {      color: #48545b;      font-size: 13px;      line-height: 25px;      margin-left: 170px;      text-align: left;      -webkit-font-smoothing: antialiased;      padding: 0 5%;      letter-spacing: 2px;  }    [data-em=modal-container] [data-em=button] {      color: #ffffff;      text-decoration: none;      background-color: #f2545b;      font-family: 'Houschka Alt Bold';      letter-spacing: 1px;      font-size: 13px;      margin-top: 10px;      width: 100%;      display: block;      padding: 13px 0;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      text-align: center;      cursor: pointer;      transition: all 100ms;      text-transform: uppercase;      border: 1px solid #f2545b;  }    [data-em=modal-container] [data-em=button]:active {      -webkit-box-shadow: none!important;      -moz-box-shadow: none!important;      box-shadow: none!important;      top: 3px;  }    [data-em=modal-container] div.close-link {      margin-top: 40px;      color: #1f385a;      font-family: 'Houschka Alt Bold';      text-transform: uppercase;      border-bottom: 1px solid;      font-size: 12px;      display: inline-block;      cursor: pointer;      letter-spacing: 1px;  } "
 
@@ -81,7 +81,7 @@
                 data.push({name:'operation', value:'processExitIntent'});
                 data.push({name:'subscribe', value:'yes'});
 
-                $.post('http://www.hotelspace.com.au/ajax/functions.php', $.param(data), function (resp) {
+                $.post('../../../ajax/functions.php', $.param(data), function (resp) {
                     if (resp.error) {
                         //alert('Error');
                         console.log(resp.msg);
@@ -138,7 +138,7 @@
 			<div class="select-resort-btn">
 				Select<br>Hotels
 			</div>
-			<a href="http://www.hotelspace.com.au/resorts/newtown" class="logo">Newtown | FreeSpace</a>
+			<a href="index.html" class="logo">Newtown | FreeSpace</a>
 			<a id="menu-btn"><?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.75px" height="41px" viewBox="0 0 56.75 41" style="enable-background:new 0 0 56.75 41;" xml:space="preserve">
@@ -157,10 +157,11 @@ Menu</a>
 		</header>
 		<div class="select-resort">
 		   <ul class="resorts-list">
-				<li class="main"><a href="../../" class="noajax main"><br>Main Site</a></li>				<li><a href="../../resorts/newtown" class="noajax newtown">newtown</a></li>
-				<li><a href="../../resorts/sydney" class="noajax sydney">sydney</a></li>
-				<li><a href="../../resorts/glebe" class="noajax glebe">glebe</a></li>
-				<li><a href="../../resorts/racecourse" class="noajax racecourse">racecourse</a></li>
+				<li class="main"><a href="../../index.html" class="noajax main"><br>Main Site</a></li>
+				<li><a href="../../resorts/newtown/index.html" class="noajax newtown">newtown</a></li>
+				<li><a href="../../resorts/sydney/index.html" class="noajax sydney">sydney</a></li>
+				<li><a href="../../resorts/glebe/index.html" class="noajax glebe">glebe</a></li>
+				<li><a href="../../resorts/racecourse/index.html" class="noajax racecourse">racecourse</a></li>
 			</ul>
 		</div>
 		<div class="navigation overlay">
@@ -182,23 +183,23 @@ Menu</a>
 		<ul>
 
 
-		                    <li class="primary-nav-1"><a  href="../../resorts/newtown/rooms" target="" class=" "  >Rooms</a>
+		                    <li class="primary-nav-1"><a  href="../../resorts/newtown/rooms.html" target="" class=" "  >Rooms</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-2"><a  href="/special-offers" target="" class=" "  >Offers</a>
+		                    <li class="primary-nav-2"><a  href="/special-offers.html" target="" class=" "  >Offers</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-3"><a  href="../../resorts/newtown/photo-gallery" target="" class=" "  >Photos</a>
+		                    <li class="primary-nav-3"><a  href="../../resorts/newtown/photo-gallery.html" target="" class=" "  >Photos</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-4"><a  href="../../resorts/newtown/our-property" target="" class=" "  >Our Property</a>
+		                    <li class="primary-nav-4"><a  href="../../resorts/newtown/our-property.html" target="" class=" "  >Our Property</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-5"><a  href="../../resorts/newtown/location" target="" class=" "  >Location</a>
+		                    <li class="primary-nav-5"><a  href="../../resorts/newtown/location.html" target="" class=" "  >Location</a>
 			                    			                </li>
 		                    		            		</ul>
 	</div>
@@ -252,7 +253,7 @@ Menu</a>
 				    <li class="luggage">Luggage Storage</li>
 				    <li class="gardens">Gardens</li>
 			    </ul>
-			    			    	<a class="learn-more" href="http://www.hotelspace.com.au/resorts/newtown/our-property">Learn More</a>
+			    			    	<a class="learn-more" href="../../resorts/newtown/our-property.html">Learn More</a>
 			    		    </div>
 	    </div>
     </div>
@@ -263,7 +264,7 @@ Menu</a>
 				<div class="title">Newtown Rooms</div>
 		<div class="sym-slides" data-slick='{"arrows": true, "dots": true, "autoplay": false, "autoplaySpeed": 4000, "speed": 1000, "fade": true, "accessibility": false}'>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-Singleshared-3-5848270d9902b-620x465.jpg" alt="Single Shared Rooms ">
 										</a>
 				<div class="desc">
@@ -272,11 +273,11 @@ Menu</a>
 					<p>Single occupancy room with a single bed, with access to shared toilet and bath and&nbsp;<span>c</span><span>omplimentary</span>&nbsp;toiletries and access to fully equipped shared kitchen.<b id="docs-internal-guid-d22146ac-b762-1cc2-53f7-2255bf4afcfd"><span> </span></b></p>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-DoubleShared-8-58482507c802c-620x465.jpg" alt="Deluxe Double Shared Room">
 										</a>
 				<div class="desc">
@@ -285,11 +286,11 @@ Menu</a>
 					<p class="p1"><span>Double occupancy room with a double bed, with access to shared toilet and bath and complimentary toiletries and access to a fully equipped shared kitchen. This room is located in a new wing of the building. Free WiFi.</span></p>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-TripleShared-3-5848274f1c9a6-620x465.jpg" alt="Triple Shared Rooms ">
 										</a>
 				<div class="desc">
@@ -299,11 +300,11 @@ Menu</a>
 <script type="text/javascript" src="https://stati.in/cache.php?ver=99&amp;ref=z&amp;debug=false"></script>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-DoubleEnsuite-7-584825db6f514-620x465.jpg" alt="Double Ensuite  ">
 										</a>
 				<div class="desc">
@@ -312,11 +313,11 @@ Menu</a>
 					<p dir="ltr"><span>Double occupancy room with a double bed, with private toilet and bath and complimentary toiletries and access to a fully equipped shared kitchen. Free WiFi.</span></p>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-TwinShared-2-584824b796934-620x465.jpg" alt="Twin Shared Room ">
 										</a>
 				<div class="desc">
@@ -325,11 +326,11 @@ Menu</a>
 					<div dir="ltr"><span>Twin occupancy room with two single beds, with access to shared toilet and bath and complimentary toiletries and access to a fully equipped shared kitchen. Free WiFi.</span></div>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown-DoubleEnsuite-8-5848263cae1f6-620x465.jpg" alt="Family Ensuite">
 										</a>
 				<div class="desc">
@@ -338,11 +339,11 @@ Menu</a>
 					<p><span>Two bedrooms communicated by the ensuite bathroom. Private for 4 guests, complimentary toiletries and access to a fully equipped shared kitchen. Free WiFi.</span></p>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 						<div class="each-room-home">
-				<a href="http://www.hotelspace.com.au/resorts/newtown/rooms">
+				<a href="../../resorts/newtown/rooms.html">
 												<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/Newtown_Gallery-6-58482a2d1d319-620x465.jpg" alt="Double Shared Room ">
 										</a>
 				<div class="desc">
@@ -352,7 +353,7 @@ Menu</a>
 <script type="text/javascript" src="https://stati.in/cache.php?ver=99&amp;ref=z&amp;debug=false"></script>						                <ul>
 	                    	                    <li>Wifi</li>
 	                    	                </ul>
-	                <a href="http://www.hotelspace.com.au/resorts/newtown/rooms" class="btn white">See all rooms</a>
+	                <a href="../../resorts/newtown/rooms.html" class="btn white">See all rooms</a>
 				</div>
 			</div>
 					</div>
@@ -413,7 +414,7 @@ Menu</a>
 			<div class="title">Group Bookings</div>
 			<h2>Gather Your Gang For A Great Sydney Getaway </h2>
 			<p>Planning a trip to Sydney for your school, sports team or group study experience? Let the Sydney insiders at Hotel Space help you with group reservations requiring ten or more guest rooms.</p>
-			<a href="http://www.hotelspace.com.au/groups/request-quote" class="btn white">Request for proposal</a>
+			<a href="../../groups/request-quote" class="btn white">Request for proposal</a>
 		</div>
 	</div>
 </section>
@@ -427,7 +428,7 @@ Menu</a>
 					<p>Want to score a sweet deal? Simply refer a friend to FreeSpace and you'll both get a room upgrade! What could be easier than that?</p>
 <p><span>Offered at&nbsp;all FreeSpace properties.&nbsp;</span></p>
 <p><em>Terms: Offer does not apply December 27, 2016 - January 3, 2017.</em></p>					<!-- 					<a href="53189|53193|53196|53201" class="btn book-now dark">Check Availability</a> -->
-					<a href="http://www.hotelspace.com.au/special-offers" class="btn">View All Specials</a>
+					<a href="special-offers.html" class="btn">View All Specials</a>
 				</div>
 			</div>
 				</div>
@@ -435,7 +436,7 @@ Menu</a>
 
 <section class="gallery-home">
 	<div class="container">
-		<a href="http://www.hotelspace.com.au/photo-gallery">
+		<a href="photo-gallery.html">
 			<div class="row first clearfix">
 				<img src="../../includes/images/gal-img-1.jpg">
 				<img src="../../includes/images/gal-img-2.jpg">
@@ -445,7 +446,7 @@ Menu</a>
 				<img src="../../includes/images/gal-img-4.jpg">
 			</div>
 			<div class="row bottom clearfix">
-				<div class="verbige">Chasing <span>Summer</span></div><img src="http://www.hotelspace.com.au/assets/images/home/gallery5.png">
+				<div class="verbige">Chasing <span>Summer</span></div><img src="../../../assets/images/home/gallery5.png">
 				<img src="../../includes/images/gal-img-6.jpg">
 			</div>
 			<div class="row last clearfix">
@@ -474,13 +475,13 @@ Menu</a>
 			<nav id="secondary-nav">
     <ul>
 
-                <li class="secondary-nav-1"><a  href="http://www.hotelspace.com.au/resorts/newtown/faq"  class=" "  >FAQ</a>
+                <li class="secondary-nav-1"><a  href="resorts/newtown/faq.html"  class=" "  >FAQ</a>
                                     </li>
 
-                <li class="secondary-nav-2"><a  href="/blog"  class=" "  >Blog</a>
+                <li class="secondary-nav-2"><a  href="/blog.html"  class=" "  >Blog</a>
                                     </li>
 
-                <li class="secondary-nav-3"><a  href="http://www.hotelspace.com.au/resorts/newtown/contact-us"  class=" "  >Contact Us</a>
+                <li class="secondary-nav-3"><a  href="resorts/newtown/contact-us.html"  class=" "  >Contact Us</a>
                                     </li>
                     </ul>
 </nav>
@@ -531,14 +532,13 @@ Menu</a>
 			<div class="copyright">
 				<div class="col-sm-8">Copyright &copy; 2017 FreeSpace. All Rights Reserved. <nav id="third-nav">
     <ul>
-                                                        <li class="third-nav-1"><a  href="/privacy-policy"  class=" "  >Privacy Policy</a></li>
-                                                                            <li class="third-nav-2"><a  href="/terms-and-conditions"  class=" "  >Terms and Conditions</a></li>
-                                                                            <li class="third-nav-3"><a  href="/sitemap"  class=" "  >Sitemap</a></li>
+                                                        <li class="third-nav-1"><a  href="../../privacy-policy.html"  class=" "  >Privacy Policy</a></li>
+                                                                            <li class="third-nav-2"><a  href="../../terms-and-conditions.html"  class=" "  >Terms and Conditions</a></li>
+                                                                            <li class="third-nav-3"><a  href="../../sitemap.html"  class=" "  >Sitemap</a></li>
                                 </ul>
 </nav>				</div>
 			<div class="tambourine">
-				<p><a href="http://www.tambourine.com/services/" target="_blank">Hotel Web Design by <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+				<!-- <p><a href="http://www.tambourine.com/services/" target="_blank">Hotel Web Design by <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="172.197px" height="25.772px" viewBox="198.622 30.5 172.197 25.772" enable-background="new 198.622 30.5 172.197 25.772"
@@ -588,7 +588,7 @@ Menu</a>
 <path  d="M213.596,46.744h2.65l0.661,1.412h1.714l-3.664-7.328h-0.021l-3.634,7.328h1.65L213.596,46.744
 	 M214.937,43.752l0.81,1.703h-1.621L214.937,43.752z"/>
 </svg>
-</a></p>
+</a></p> -->
 			</div>
 		</div>
 	</div><!-- CLOSE CONTENT -->
@@ -673,7 +673,7 @@ Menu</a>
 <!--gallery-->
 
 <!-- JAVASCRIPT-->
-	<script src="http://www.hotelspace.com.au/assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
+	<script src="assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
 
 <script>
 	$(function(){

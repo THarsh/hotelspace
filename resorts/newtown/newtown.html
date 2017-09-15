@@ -83,8 +83,8 @@
                         <ul class="submenu">
                             <li><a href="newtown.html">Newtown Space</a></li>
                             <li><a href="../sydney/sydney.html">Sydney Space</a></li>
-                            <li><a href="glebe.html">Glebe Space</a></li>
-                            <li><a href="racecourse.html">Racecourse Space</a></li>
+                            <li><a href="../glebe/glebe.html">Glebe Space</a></li>
+                            <li><a href="../racecourse/racecourse.html">Racecourse Space</a></li>
                             <li class="main"><a href="../../index.html">Main Site</a></li>
                         </ul>
                     </li>
@@ -1085,6 +1085,65 @@ NREUM.info = {
     "errorBeacon": "bam.nr-data.net",
     "agent": ""
 }</script>
+
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCiVSOyyrwyyzu1XR9GiLbEc1s4TZYqhmg"></script>
+<script src="http://www.symphonyhotelmarketing.com/frontend/includes/js/infobox_packed.js"></script>
+<script>
+    $(window).bind("load", function() {
+        $(document).ready(function() {
+            // Initialize Map with the latitude, longitude of hotel and the zoom level
+            initializeMap(-33.88845, 151.186371, 13);
+
+            var hotel_marker = new Object();
+            hotel_marker.id = '0';
+            hotel_marker.name = "NEWTOWN SPACE";
+            hotel_marker.description = "Western Avenue";
+            //hotel_marker.thumb = 'http://www.hotelspace.com.au/assets/images/hotel-img.jpg';
+            hotel_marker.lat = '-33.88845';
+            hotel_marker.long = '151.186371';
+            hotel_marker.url = '';
+            hotel_marker.icon = 'http://www.hotelspace.com.au/assets/images/resort-glebe/pin-hotel.png';
+            loadMarker(hotel_marker,'');
+
+            var hotel_marker = new Object();
+            hotel_marker.id = '1';
+            hotel_marker.name = "Opera House";
+            hotel_marker.description = "Bennelong Point, Sydney NSW 2000";
+            //hotel_marker.thumb = '';
+            hotel_marker.lat = '-33.8568';
+            hotel_marker.long = '151.2153';
+            hotel_marker.url = '';
+            hotel_marker.icon = 'http://www.hotelspace.com.au/assets/images/resort-glebe/pin-blue.png';
+            loadMarker(hotel_marker,'');
+
+            var hotel_marker = new Object();
+            hotel_marker.id = '2';
+            hotel_marker.name = "Glebe Market";
+            hotel_marker.description = "Corner of Derby Place and Glebe Pt. Rd";
+            //hotel_marker.thumb = '';
+            hotel_marker.lat = '-33.8839';
+            hotel_marker.long = '151.1908';
+            hotel_marker.url = '';
+            hotel_marker.icon = 'http://www.hotelspace.com.au/assets/images/resort-glebe/pin-green.png';
+            loadMarker(hotel_marker,'');
+
+            var hotel_marker = new Object();
+            hotel_marker.id = '3';
+            hotel_marker.name = "Chinatown";
+            hotel_marker.description = "Haymarket";
+            //hotel_marker.thumb = '';
+            hotel_marker.lat = '-33.8739315043';
+            hotel_marker.long = '151.202447524';
+            hotel_marker.url = '';
+            hotel_marker.icon = 'http://www.hotelspace.com.au/assets/images/resort-glebe/pin-orange.png';
+            loadMarker(hotel_marker,'');
+
+            var winHeight = $(window).height();
+            $("#myMap").css("height","500px");
+        });
+    });
+</script>
 </body>
 
 </html>

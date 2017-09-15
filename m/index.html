@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta name="keywords" content="" />
 <meta name="description" content="With locations in convient downtown locations, Hotel Space offers affordable hotels during the best time to be in the  city,  the summer. Visit our webpage to learn more about us." />
-<link rel="canonical" href="http://www.hotelspace.com.au/">
+<link rel="canonical" href="">
 <!-- DEFAULT STYLESHEETS-->
 <link rel="stylesheet" media="handheld, screen" href="../main_assets/frontend/m/includes/css/default.min.css" /><!-- Default.css + slick.css -->
 <link rel="stylesheet" media="handheld, screen" href="includes/css/style.css?59b93a0fb4ae7" />
@@ -16,7 +16,7 @@
 <script>
 	var SITE_ROOT = 'http://'+document.domain+'/';
 	var CLIENT_FOLDER = 'hotel-space/';
-	var site_url = 'http://www.hotelspace.com.au/';
+	var site_url = '../';
 	var is_live = '1';
 	var list_id = 'f67f3d2de2';
 	var latitude = '-33.898799';
@@ -49,7 +49,7 @@
         delay: 0,
         popupId: 514,
         minPages: 3,
-        script: 'http://www.hotelspace.com.au/ajax/functions.php',
+        script: '../ajax/functions.php',
         cookieExp: 360,
         css: " [data-em=modal-container] {      width: 675px;      height: 445px;      overflow: hidden;      background-image: url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/exit-intent-background-59a5e26feb28e.jpg);      background-repeat: no-repeat;      text-align: center;      padding-top: 40px;  }    [data-em=modal-container] [data-em='input-container'] {      margin: 50px auto 0;      width: 90%;  }    [data-em=modal-container] [data-em='input-container'] .template-inputs {      display: inline-block;      width: 49%;  }    [data-em=modal-container] input {      text-align: center;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      font-size: 14px;      color: #7d715e!important;      background-color: transparent;      padding: 0 10px;      display: block;      width: 100%;      height: 40px;      border: 1px solid #a29e9b;  }    ::-webkit-input-placeholder {      color: #7d715e;  }    :-moz-placeholder {      color: #7d715e;      opacity: 1;  }    ::-moz-placeholder {      color: #7d715e;      opacity: 1;  }    :-ms-input-placeholder {      color: #7d715e;  }    [data-em=modal-container] [data-em=logo] {      max-width: 100%;      max-height: 40px;  }    [data-em=modal-container] [data-em=text-line-1] {      color: #f2545b;      font-size: 67px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      font-family: 'DK Kitsune Tail';      margin-top: 10px;  }    [data-em=modal-container] [data-em=text-line-1-5] {      color: #48545b;      font-size: 60px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      letter-spacing: 3px;      margin-top: 35px;      margin-left: 15px;  }    [data-em=modal-container] [data-em=text-line-2] {      color: #1f385a;      letter-spacing: 3px;      font-size: 30px;      text-transform: uppercase;      line-height: 25px;      margin-top: 50px;      margin-bottom: 10px;      text-align: center;      font-family: 'Houschka Alt Bold';      -webkit-font-smoothing: antialiased;      padding: 0 5%;  }    [data-em=modal-container] [data-em=text-line-3] {      color: #48545b;      font-size: 13px;      line-height: 25px;      margin-left: 170px;      text-align: left;      -webkit-font-smoothing: antialiased;      padding: 0 5%;      letter-spacing: 2px;  }    [data-em=modal-container] [data-em=button] {      color: #ffffff;      text-decoration: none;      background-color: #f2545b;      font-family: 'Houschka Alt Bold';      letter-spacing: 1px;      font-size: 13px;      margin-top: 10px;      width: 100%;      display: block;      padding: 13px 0;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      text-align: center;      cursor: pointer;      transition: all 100ms;      text-transform: uppercase;      border: 1px solid #f2545b;  }    [data-em=modal-container] [data-em=button]:active {      -webkit-box-shadow: none!important;      -moz-box-shadow: none!important;      box-shadow: none!important;      top: 3px;  }    [data-em=modal-container] div.close-link {      margin-top: 40px;      color: #1f385a;      font-family: 'Houschka Alt Bold';      text-transform: uppercase;      border-bottom: 1px solid;      font-size: 12px;      display: inline-block;      cursor: pointer;      letter-spacing: 1px;  } "
 
@@ -84,7 +84,7 @@
                 data.push({name:'operation', value:'processExitIntent'});
                 data.push({name:'subscribe', value:'yes'});
 
-                $.post('http://www.hotelspace.com.au/ajax/functions.php', $.param(data), function (resp) {
+                $.post('../ajax/functions.php', $.param(data), function (resp) {
                     if (resp.error) {
                         //alert('Error');
                         console.log(resp.msg);
@@ -141,7 +141,7 @@
 			<div class="select-resort-btn">
 				Select<br>Hotels
 			</div>
-			<a href="http://www.hotelspace.com.au/" class="logo">Brand Level | FreeSpace</a>
+			<a href="index.html" class="logo">Brand Level | FreeSpace</a>
 			<a id="menu-btn"><?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.75px" height="41px" viewBox="0 0 56.75 41" style="enable-background:new 0 0 56.75 41;" xml:space="preserve">
@@ -160,10 +160,10 @@ Menu</a>
 		</header>
 		<div class="select-resort">
 		   <ul class="resorts-list">
-								<li><a href="resorts/newtown" class="noajax newtown">newtown</a></li>
-				<li><a href="resorts/sydney" class="noajax sydney">sydney</a></li>
-				<li><a href="resorts/glebe" class="noajax glebe">glebe</a></li>
-				<li><a href="resorts/racecourse" class="noajax racecourse">racecourse</a></li>
+								<li><a href="resorts/newtown.html" class="noajax newtown">newtown</a></li>
+				<li><a href="resorts/sydney.html" class="noajax sydney">sydney</a></li>
+				<li><a href="resorts/glebe.html" class="noajax glebe">glebe</a></li>
+				<li><a href="resorts/racecourse.html" class="noajax racecourse">racecourse</a></li>
 			</ul>
 		</div>
 		<div class="navigation overlay">
@@ -185,15 +185,15 @@ Menu</a>
 		<ul>
 
 
-		                    <li class="primary-nav-1"><a  href="groups" target="" class=" "  >Groups</a>
+		                    <li class="primary-nav-1"><a  href="groups.html" target="" class=" "  >Groups</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-2"><a  href="special-offers" target="" class=" "  >Offers</a>
+		                    <li class="primary-nav-2"><a  href="special-offers.html" target="" class=" "  >Offers</a>
 			                    			                </li>
 
 
-		                    <li class="primary-nav-3"><a  href="photo-gallery" target="" class=" "  >Photos</a>
+		                    <li class="primary-nav-3"><a  href="photo-gallery.html" target="" class=" "  >Photos</a>
 			                    			                </li>
 		                    		            		</ul>
 	</div>
@@ -305,7 +305,7 @@ Menu</a>
 		<div class="sym-slides" data-slick='{"arrows": true, "dots": true, "autoplay": false, "autoplaySpeed": 4000, "speed": 1000, "fade": true, "accessibility": false}'>
 					<div class="unit each-slide">
 				<div class="img-holder">
-					<a href="http://www.hotelspace.com.au/resorts/newtown">
+					<a href="../resorts/newtown">
 						<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-NewtownSpace-58dd7a1f1ca36-555x278.jpg" alt="Newtown Space" class="img-responsive">
 					</a>
 					<div class="hover"></div>
@@ -314,13 +314,13 @@ Menu</a>
 					<h3>Newtown Space</h3>
 				</div>
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
-					<p>Located on the main campus, Newtown Space is in the heart of fashionable and cosmopolitan Newtown, just steps from great dining, shopping and entertainment on King Street.<!--... <a href="http://www.hotelspace.com.au/resorts/newtown">Continue Reading</a>--></p>
-					<a href="http://www.hotelspace.com.au/resorts/newtown" class="btn white">View Property</a>
+					<p>Located on the main campus, Newtown Space is in the heart of fashionable and cosmopolitan Newtown, just steps from great dining, shopping and entertainment on King Street.<!--... <a href="../resorts/newtown">Continue Reading</a>--></p>
+					<a href="../resorts/newtown" class="btn white">View Property</a>
 				</div>
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
-					<a href="http://www.hotelspace.com.au/resorts/sydney">
+					<a href="../resorts/sydney">
 						<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-SydneySpace-58dd7a472c80e-555x278.jpg" alt="Sydney Space" class="img-responsive">
 					</a>
 					<div class="hover"></div>
@@ -329,13 +329,13 @@ Menu</a>
 					<h3>Sydney Space</h3>
 				</div>
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
-					<p>FreeSpace Sydney is conveniently located at 10 Missenden Road in&nbsp;the bustling area of&nbsp;Camperdown. <!--... <a href="http://www.hotelspace.com.au/resorts/sydney">Continue Reading</a>--></p>
-					<a href="http://www.hotelspace.com.au/resorts/sydney" class="btn white">View Property</a>
+					<p>FreeSpace Sydney is conveniently located at 10 Missenden Road in&nbsp;the bustling area of&nbsp;Camperdown. <!--... <a href="../resorts/sydney">Continue Reading</a>--></p>
+					<a href="../resorts/sydney" class="btn white">View Property</a>
 				</div>
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
-					<a href="http://www.hotelspace.com.au/resorts/glebe">
+					<a href="../resorts/glebe">
 						<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Glebe-Inset-Property-58dd63b1de1fd-555x278.jpg" alt="Glebe Space" class="img-responsive">
 					</a>
 					<div class="hover"></div>
@@ -344,13 +344,13 @@ Menu</a>
 					<h3>Glebe Space</h3>
 				</div>
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
-					<p>Glebe Space is tucked into Camperdown in close proximity to Bicentennial Park, the Saturday Market and dozens of variety of international cousine eateries.<!--... <a href="http://www.hotelspace.com.au/resorts/glebe">Continue Reading</a>--></p>
-					<a href="http://www.hotelspace.com.au/resorts/glebe" class="btn white">View Property</a>
+					<p>Glebe Space is tucked into Camperdown in close proximity to Bicentennial Park, the Saturday Market and dozens of variety of international cousine eateries.<!--... <a href="../resorts/glebe">Continue Reading</a>--></p>
+					<a href="../resorts/glebe" class="btn white">View Property</a>
 				</div>
 			</div>
 					<div class="unit each-slide">
 				<div class="img-holder">
-					<a href="http://www.hotelspace.com.au/resorts/racecourse">
+					<a href="../resorts/racecourse">
 						<img src="http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/HS-Homepage-SydneyPopUps-RacecourseSpace-58dd7a30b11ef-555x278.jpg" alt="Racecourse Space" class="img-responsive">
 					</a>
 					<div class="hover"></div>
@@ -359,8 +359,8 @@ Menu</a>
 					<h3>Racecourse Space</h3>
 				</div>
 				<div class="col-sm-12 col-md-7 col-lg-8 no-gutter description">
-					<p>Just six minutes away from the world-famous Coogee Beach, Racecourse Space is surrounded by the trendy cafes and vibrant nightlife.<!--... <a href="http://www.hotelspace.com.au/resorts/racecourse">Continue Reading</a>--></p>
-					<a href="http://www.hotelspace.com.au/resorts/racecourse" class="btn white">View Property</a>
+					<p>Just six minutes away from the world-famous Coogee Beach, Racecourse Space is surrounded by the trendy cafes and vibrant nightlife.<!--... <a href="../resorts/racecourse">Continue Reading</a>--></p>
+					<a href="../resorts/racecourse" class="btn white">View Property</a>
 				</div>
 			</div>
 				</div>
@@ -372,7 +372,7 @@ Menu</a>
 <section class="location-trio">
 	<div class="quads sym-slides" data-slick='{"arrows": true, "dots": true, "autoplay": false, "autoplaySpeed": 4000, "speed": 1000, "fade": true, "accessibility": false}'>
 		<div class="unit">
-			<img src="http://www.hotelspace.com.au/assets/images/home/newtown-sidney.jpg">
+			<img src="../assets/images/home/newtown-sidney.jpg">
 			<div class="wrapper">
 				<h3>Newtown, <span>Sydney</span></h3>
 				<div class="desc">
@@ -383,7 +383,7 @@ Menu</a>
 			</div>
 		</div>
 		<div class="unit">
-			<img src="http://www.hotelspace.com.au/assets/images/home/glebe-sydney.jpg">
+			<img src="../assets/images/home/glebe-sydney.jpg">
 			<div class="wrapper">
 				<h3>Glebe, <span>Sydney</span></h3>
 				<div class="desc">
@@ -394,7 +394,7 @@ Menu</a>
 			</div>
 		</div>
 		<div class="unit">
-			<img src="http://www.hotelspace.com.au/assets/images/home/coogee-sidney.jpg">
+			<img src="../assets/images/home/coogee-sidney.jpg">
 			<div class="wrapper">
 				<h3>Coogee, <span>Sydney</span></h3>
 				<div class="desc">
@@ -459,7 +459,7 @@ Menu</a>
 			<div class="title">Group Bookings</div>
 			<h2>Gather Your Gang For A Great Sydney Getaway </h2>
 			<p>Planning a trip to Sydney for your school, sports team or group study experience? Let the Sydney insiders at Hotel Space help you with group reservations requiring ten or more guest rooms.</p>
-			<a href="http://www.hotelspace.com.au/groups/request-quote" class="btn white">Request for proposal</a>
+			<a href="../groups/request-quote.html" class="btn white">Request for proposal</a>
 		</div>
 	</div>
 </section>
@@ -478,12 +478,12 @@ Menu</a>
 <p><em>Terms: Offer does not apply December 27, 2016 - January 3, 2017.</em></p>			<!-- 			<a href="53189|53193|53196|53201" target="_blank" class="btn book-now dark">Check Availability</a> -->
 		</div>
 			</div>
-	<a href="http://www.hotelspace.com.au/special-offers" class="btn">View All Specials</a>
+	<a href="../special-offers.html.html" class="btn">View All Specials</a>
 </section>
 
 <section class="gallery-home">
 	<div class="container">
-		<a href="http://www.hotelspace.com.au/photo-gallery">
+		<a href="../photo-gallery.html">
 			<div class="row first clearfix">
 				<img src="includes/images/gal-img-1.jpg">
 				<img src="includes/images/gal-img-2.jpg">
@@ -493,7 +493,7 @@ Menu</a>
 				<img src="includes/images/gal-img-4.jpg">
 			</div>
 			<div class="row bottom clearfix">
-				<div class="verbige">Chasing <span>Summer</span></div><img src="http://www.hotelspace.com.au/assets/images/home/gallery5.png">
+				<div class="verbige">Chasing <span>Summer</span></div><img src="../assets/images/home/gallery5.png">
 				<img src="includes/images/gal-img-6.jpg">
 			</div>
 			<div class="row last clearfix">
@@ -522,19 +522,19 @@ Menu</a>
 			<nav id="secondary-nav">
     <ul>
 
-                <li class="secondary-nav-1"><a  href="http://www.hotelspace.com.au/about-hotel-space"  class=" "  >Our Brand</a>
+                <li class="secondary-nav-1"><a  href="about-hotel-space.html"  class=" "  >Our Brand</a>
                                     </li>
 
-                <li class="secondary-nav-2"><a  href="http://www.hotelspace.com.au/partnerships"  class=" "  >Partnerships</a>
+                <li class="secondary-nav-2"><a  href="partnerships.html"  class=" "  >Partnerships</a>
                                     </li>
 
-                <li class="secondary-nav-3"><a  href="http://www.hotelspace.com.au/blog"  class=" "  >Blog</a>
+                <li class="secondary-nav-3"><a  href="blog.html.html.html"  class=" "  >Blog</a>
                                     </li>
 
-                <li class="secondary-nav-4"><a  href="http://www.hotelspace.com.au/faq"  class=" "  >FAQ</a>
+                <li class="secondary-nav-4"><a  href="faq.html.html"  class=" "  >FAQ</a>
                                     </li>
 
-                <li class="secondary-nav-5"><a  href="http://www.hotelspace.com.au/contact-us"  class=" "  >Contact us</a>
+                <li class="secondary-nav-5"><a  href="contact-us.html"  class=" "  >Contact us</a>
                                     </li>
                     </ul>
 </nav>
@@ -585,12 +585,13 @@ Menu</a>
 			<div class="copyright">
 				<div class="col-sm-8">Copyright &copy; 2017 FreeSpace. All Rights Reserved. <nav id="third-nav">
     <ul>
-                                                        <li class="third-nav-1"><a  href="http://www.hotelspace.com.au/privacy-policy"  class=" "  >Privacy Policy</a></li>
+                                                        <li class="third-nav-1"><a  href="privacy-policy"  class=" "  >Privacy Policy</a></li>
                                 </ul>
 </nav>				</div>
 			<div class="tambourine">
-				<p><a href="http://www.tambourine.com/services/" target="_blank">Hotel Web Design by <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+				<!-- <p>
+					<a href="http://www.tambourine.com/services/" target="_blank">Hotel Web Design by
+						<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="172.197px" height="25.772px" viewBox="198.622 30.5 172.197 25.772" enable-background="new 198.622 30.5 172.197 25.772"
@@ -640,7 +641,7 @@ Menu</a>
 <path  d="M213.596,46.744h2.65l0.661,1.412h1.714l-3.664-7.328h-0.021l-3.634,7.328h1.65L213.596,46.744
 	 M214.937,43.752l0.81,1.703h-1.621L214.937,43.752z"/>
 </svg>
-</a></p>
+</a></p> -->
 			</div>
 		</div>
 	</div><!-- CLOSE CONTENT -->
@@ -725,7 +726,7 @@ Menu</a>
 <!--gallery-->
 
 <!-- JAVASCRIPT-->
-	<script src="http://www.hotelspace.com.au/assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
+	<script src="../assets/js/jquery.lwtCountdown-1.0.js" type="text/javascript"></script>
 
 <script>
 	$(function(){
