@@ -222,7 +222,7 @@
     <meta name="description"
           content="Find out where all our Hotel Space properties are located as well as surronding restaurants, shops, attractions, and sights by visiting our maps page."/>
     <link rel="alternate" href="index.html">
-    <link rel="alternate" href="http://www.hotelspace.com.au/ajax/functions.php?operation=getMapPinsCustom">
+
 
     <!-- Metatag for Facebook Sharing -->
     <meta property="og:title" content="Map of Hotel Space | Boutique Hotels in Downtown Sydney, Australia"/>
@@ -246,7 +246,6 @@
     <!-- UNIQUE CLIENT SITE STYLESHEET -->
     <link rel="stylesheet" media="screen" type="text/css" href="../../assets/style.css"/>
 
-	<script src="http://www.hotelspace.com.au/ajax/functions.php?operation=getMapPinsCustom"></script>
     <!-- DEFAULT JAVASCRIPT VARIABLES-->
     <script src="../../ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script lang="text/javascript">
@@ -447,79 +446,7 @@
         var lat = '-33.898799';
         var lng = '151.176229';
         var initZoom = 15;
-        var mapStyling = [{
-            "featureType": "all",
-            "elementType": "geometry.fill",
-            "stylers": [{"weight": "2.00"}]
-        }, {
-            "featureType": "all",
-            "elementType": "geometry.stroke",
-            "stylers": [{"color": "#9c9c9c"}]
-        }, {
-            "featureType": "all",
-            "elementType": "labels.text",
-            "stylers": [{"visibility": "on"}]
-        }, {
-            "featureType": "all",
-            "elementType": "labels.text.fill",
-            "stylers": [{"color": "#3c414c"}]
-        }, {
-            "featureType": "landscape",
-            "elementType": "all",
-            "stylers": [{"color": "#dbdde2"}]
-        }, {
-            "featureType": "landscape",
-            "elementType": "geometry.fill",
-            "stylers": [{"color": "#ffffff"}]
-        }, {
-            "featureType": "landscape.man_made",
-            "elementType": "geometry.fill",
-            "stylers": [{"color": "#dbdde2"}]
-        }, {
-            "featureType": "poi",
-            "elementType": "all",
-            "stylers": [{"visibility": "off"}, {"gamma": "0.51"}]
-        }, {
-            "featureType": "road",
-            "elementType": "all",
-            "stylers": [{"saturation": -100}, {"lightness": 45}]
-        }, {
-            "featureType": "road",
-            "elementType": "geometry.fill",
-            "stylers": [{"color": "#eeeeee"}]
-        }, {
-            "featureType": "road",
-            "elementType": "labels.text.fill",
-            "stylers": [{"color": "#a7adb9"}]
-        }, {
-            "featureType": "road",
-            "elementType": "labels.text.stroke",
-            "stylers": [{"color": "#ffffff"}, {"visibility": "off"}]
-        }, {
-            "featureType": "road.highway",
-            "elementType": "all",
-            "stylers": [{"visibility": "simplified"}]
-        }, {
-            "featureType": "road.arterial",
-            "elementType": "labels.icon",
-            "stylers": [{"visibility": "off"}]
-        }, {
-            "featureType": "transit",
-            "elementType": "all",
-            "stylers": [{"visibility": "off"}]
-        }, {
-            "featureType": "water",
-            "elementType": "all",
-            "stylers": [{"color": "#747d91"}, {"visibility": "on"}]
-        }, {
-            "featureType": "water",
-            "elementType": "geometry.fill",
-            "stylers": [{"color": "#747d91"}]
-        }, {
-            "featureType": "water",
-            "elementType": "labels.text.fill",
-            "stylers": [{"color": "#070707"}]
-        }, {"featureType": "water", "elementType": "labels.text.stroke", "stylers": [{"color": "#ffffff"}]}];
+        var mapStyling = [{"featureType":"all","elementType":"geometry.fill","stylers":[{"weight":"2.00"}]},{"featureType":"all","elementType":"geometry.stroke","stylers":[{"color":"#9c9c9c"}]},{"featureType":"all","elementType":"labels.text","stylers":[{"visibility":"on"}]},{"featureType":"all","elementType":"labels.text.fill","stylers":[{"color":"#3c414c"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#dbdde2"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"landscape.man_made","elementType":"geometry.fill","stylers":[{"color":"#dbdde2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"},{"gamma":"0.51"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"color":"#eeeeee"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#a7adb9"}]},{"featureType":"road","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"},{"visibility":"off"}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#747d91"},{"visibility":"on"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#747d91"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#070707"}]},{"featureType":"water","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"}]}];
         hotelLat = '-33.898799';
         hotelLng = '151.176229';
 
@@ -551,24 +478,24 @@
         pinPointImages.push(".");
         pinPointImages.push("..");
         pinPointImages.push(".svn");
-        pinPointImages.push("close-map.html");
+        pinPointImages.push("close-map.png");
 
-        $(document).ready(function () {
+        $(document).ready(function(){
 
             //Adjust map to use full height
             var winHeight = $(window).height();
-            $("#myMap").css("height", winHeight);
+            $("#myMap").css("height",winHeight);
 
         });
 
     </script>
 
     <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
-    <script src="../../main_assets/frontend/includes/js/infobox_packed.js"
-            type="text/javascript"></script>
-    <script src="../../main_assets/frontend/includes/js/map-category/downloadxml.js"
-            type="text/javascript"></script>
+    <script src="../../main_assets/frontend/includes/js/infobox_packed.js" type="text/javascript"></script>
+    <script src="../../main_assets/frontend/includes/js/map-category/downloadxml.js" type="text/javascript"></script>
     <script src="../../includes/js/map-category/map-cat-sidebar.js" type="text/javascript"></script>
+
+
     <div id="content" style="position:relative">
 
         <aside id="markers-sidebar">
@@ -721,79 +648,33 @@
 </div> <!-- CLOSE START CONTENT -->
 <!-- Global jQuery libraries -->
 <script src="../../main_assets/frontend/assets/global.js" type="text/javascript"></script>
- 
-
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyCiVSOyyrwyyzu1XR9GiLbEc1s4TZYqhmg"></script>
 
 <!-- SPECIFIC CLIENT JQUERY SCRIPTS -->
 <script src="../../assets/scripts.js" type="text/javascript"></script>
 
-<!-- POPUP SCRIPT -->
+<script src="../../main_assets/frontend/includes/js/map-category/downloadxml.js" type="text/javascript"></script>
+
 <script src="../../main_assets/frontend/includes/js/jquery-validate/jquery.validate.min.js"></script>
+
 <script src="../../main_assets/frontend/includes/js/bioep.min.js"></script>
 
-<script>
-    //Initialize variables
-    var defaultLatlng = '-33.898799, 151.176229';
-    var lat = '-33.898799';
-    var lng = '151.176229';
-    var initZoom = 15;
-    var mapStyling = [{"featureType":"all","elementType":"geometry.fill","stylers":[{"weight":"2.00"}]},{"featureType":"all","elementType":"geometry.stroke","stylers":[{"color":"#9c9c9c"}]},{"featureType":"all","elementType":"labels.text","stylers":[{"visibility":"on"}]},{"featureType":"all","elementType":"labels.text.fill","stylers":[{"color":"#3c414c"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#dbdde2"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"landscape.man_made","elementType":"geometry.fill","stylers":[{"color":"#dbdde2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"},{"gamma":"0.51"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"color":"#eeeeee"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#a7adb9"}]},{"featureType":"road","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"},{"visibility":"off"}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#747d91"},{"visibility":"on"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#747d91"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#070707"}]},{"featureType":"water","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"}]}];
-    hotelLat = '-33.898799';
-    hotelLng = '151.176229';
-
-    var hotelParams = {
-        'name': "Brand Level | FreeSpace",
-        'description': "",
-        'lat': -33.898799,
-        'long': 151.176229,
-        'icon': "http://www.hotelspace.com.au/assets/images/hotel-marker.png",
-        'thumb': "http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/cache/-480x300.",
-    }
-
-    //Initialize Category array
-    var pinCategories = [];
-            pinCategories.push("airport");
-            pinCategories.push("attractions-entertainment");
-            pinCategories.push("bars");
-            pinCategories.push("dining");
-            pinCategories.push("museums");
-            pinCategories.push("nightlife");
-            pinCategories.push("unique-attractions");
-            pinCategories.push("schools");
-            pinCategories.push("shopping");
-            pinCategories.push("sports-recreation");
-            pinCategories.push("theatres");
-            pinCategories.push("hotel");
-
-    var pinPointImages = [];
-            pinPointImages.push(".");
-            pinPointImages.push("..");
-            pinPointImages.push(".svn");
-            pinPointImages.push("close-map.png");
-    
-    $(document).ready(function(){
-
-        //Adjust map to use full height
-        var winHeight = $(window).height();
-        $("#myMap").css("height",winHeight);
-
-    });
-
-</script>
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCiVSOyyrwyyzu1XR9GiLbEc1s4TZYqhmg"></script>
 
 
-<script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
-<script src="http://www.symphonyhotelmarketing.com/frontend/includes/js/infobox_packed.js" type="text/javascript"></script>
-<script src="http://www.symphonyhotelmarketing.com/frontend/includes/js/map-category/downloadxml.js" type="text/javascript"></script>
-<script src="http://www.hotelspace.com.au/includes/js/map-category/map-cat-sidebar.js" type="text/javascript"></script>
+
+<!-- POPUP SCRIPT -->
+
+
+
+
+
 <script>
 
     bioEp.init({
         delay: 0,
         popupId: 514,
         minPages: 3,
-        script: 'http://www.hotelspace.com.au/ajax/functions.php',
+        script: '../../ajax/functions.php',
         cookieExp: 360,
         css: " [data-em=modal-container] {      width: 675px;      height: 445px;      overflow: hidden;      background-image: url(http://be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space/media/exit-intent-background-59a5e26feb28e.jpg);      background-repeat: no-repeat;      text-align: center;      padding-top: 40px;  }    [data-em=modal-container] [data-em='input-container'] {      margin: 50px auto 0;      width: 90%;  }    [data-em=modal-container] [data-em='input-container'] .template-inputs {      display: inline-block;      width: 49%;  }    [data-em=modal-container] input {      text-align: center;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      font-size: 14px;      color: #7d715e!important;      background-color: transparent;      padding: 0 10px;      display: block;      width: 100%;      height: 40px;      border: 1px solid #a29e9b;  }    ::-webkit-input-placeholder {      color: #7d715e;  }    :-moz-placeholder {      color: #7d715e;      opacity: 1;  }    ::-moz-placeholder {      color: #7d715e;      opacity: 1;  }    :-ms-input-placeholder {      color: #7d715e;  }    [data-em=modal-container] [data-em=logo] {      max-width: 100%;      max-height: 40px;  }    [data-em=modal-container] [data-em=text-line-1] {      color: #f2545b;      font-size: 67px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      font-family: 'DK Kitsune Tail';      margin-top: 10px;  }    [data-em=modal-container] [data-em=text-line-1-5] {      color: #48545b;      font-size: 60px;      line-height: 28px;      text-align: center;      -webkit-font-smoothing: antialiased;      letter-spacing: 3px;      margin-top: 35px;      margin-left: 15px;  }    [data-em=modal-container] [data-em=text-line-2] {      color: #1f385a;      letter-spacing: 3px;      font-size: 30px;      text-transform: uppercase;      line-height: 25px;      margin-top: 50px;      margin-bottom: 10px;      text-align: center;      font-family: 'Houschka Alt Bold';      -webkit-font-smoothing: antialiased;      padding: 0 5%;  }    [data-em=modal-container] [data-em=text-line-3] {      color: #48545b;      font-size: 13px;      line-height: 25px;      margin-left: 170px;      text-align: left;      -webkit-font-smoothing: antialiased;      padding: 0 5%;      letter-spacing: 2px;  }    [data-em=modal-container] [data-em=button] {      color: #ffffff;      text-decoration: none;      background-color: #f2545b;      font-family: 'Houschka Alt Bold';      letter-spacing: 1px;      font-size: 13px;      margin-top: 10px;      width: 100%;      display: block;      padding: 13px 0;      -webkit-border-radius: 0;      -moz-border-radius: 0;      -ms-border-radius: 0;      -o-border-radius: 0;      border-radius: 0;      text-align: center;      cursor: pointer;      transition: all 100ms;      text-transform: uppercase;      border: 1px solid #f2545b;  }    [data-em=modal-container] [data-em=button]:active {      -webkit-box-shadow: none!important;      -moz-box-shadow: none!important;      box-shadow: none!important;      top: 3px;  }    [data-em=modal-container] div.close-link {      margin-top: 40px;      color: #1f385a;      font-family: 'Houschka Alt Bold';      text-transform: uppercase;      border-bottom: 1px solid;      font-size: 12px;      display: inline-block;      cursor: pointer;      letter-spacing: 1px;  } "
 
@@ -883,7 +764,7 @@
 <div id="bio_ep_thanks">
     <h1 style="color:#fff;">Thank You</h1>
 </div>
- 
- 
+
+
 </body>
 </html>

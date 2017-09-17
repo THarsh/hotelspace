@@ -246,7 +246,7 @@ function getToClick(obj) {
 
 function getCategories() {
 
-    downloadUrl(site_url + "ajax/functions.php?operation=getMapPinsCustom", function(doc) {
+    downloadUrl("ajax/mapdata.xml", function(doc) {
         var xml = xmlParse(doc);
         markers = xml.documentElement.getElementsByTagName("marker");
 
