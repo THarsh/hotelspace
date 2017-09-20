@@ -2,318 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/about-hotel-space.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/contact-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/groups/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/groups/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/hotel-space/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/stylefacf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/svg/icon-coffee.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/svg/icon-desk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/svg/icon-microwave.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/svg/icon-refrigerator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/css/svg/icon-tv.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-right-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-right-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/arrow-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/blue-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/brand-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/brand-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/follow-us-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/footer-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/footer-top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/free-space-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gal-img-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gallery-background-middle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/gallery-top-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/glebe-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/groups-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/heritage-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/icon-benefits.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/icon-close-booking.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/icon-luggage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/intro-graphic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/location-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/location-side-graffiti.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/modern-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/newtown-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/racecourse-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/resort-glebe/icon-wifi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/splash-bottom-location.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/sydney-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/white-brush-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/images/white-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/includes/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/index (another copy).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/index (copy).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/old/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/old/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/old/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/partnerships.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/privacy-policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/glebe/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/glebe/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/glebe/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/glebe/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/glebe/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/newtown/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/newtown/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/newtown/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/newtown/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/newtown/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/racecourse/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/racecourse/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/racecourse/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/racecourse/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/racecourse/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/sydney/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/sydney/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/sydney/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/sydney/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/resorts/sydney/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/special-offers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m - Copy/special-offers/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m v2.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m v3.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/includes/css/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/includes/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/includes/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v0.1/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/about-hotel-space.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/contact-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/groups/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/groups/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/hotel-space/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/stylefacf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/svg/icon-coffee.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/svg/icon-desk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/svg/icon-microwave.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/svg/icon-refrigerator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/css/svg/icon-tv.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-right-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-right-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/arrow-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/blue-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/brand-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/brand-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/follow-us-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/footer-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/footer-top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/free-space-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gal-img-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gallery-background-middle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/gallery-top-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/glebe-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/groups-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/heritage-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/icon-benefits.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/icon-close-booking.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/icon-luggage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/intro-graphic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/location-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/location-side-graffiti.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/modern-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/newtown-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/racecourse-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/resort-glebe/icon-wifi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/splash-bottom-location.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/sydney-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/white-brush-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/images/white-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/includes/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/index (copy).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/old/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/old/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/old/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/partnerships.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/privacy-policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/glebe/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/glebe/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/glebe/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/glebe/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/glebe/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/newtown/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/newtown/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/newtown/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/newtown/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/newtown/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/racecourse/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/racecourse/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/racecourse/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/racecourse/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/racecourse/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/sydney/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/sydney/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/sydney/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/sydney/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/resorts/sydney/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/special-offers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v1/special-offers/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/about-hotel-space.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/ajax/libs/jquery/1.7.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/contact-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/groups/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/groups/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/hotel-space/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/stylefacf.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/svg/icon-coffee.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/svg/icon-desk.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/svg/icon-microwave.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/svg/icon-refrigerator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/css/svg/icon-tv.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-right-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-right-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/arrow-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/blue-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/brand-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/brand-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/follow-us-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/footer-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/footer-top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/free-space-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gal-img-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gallery-background-middle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/gallery-top-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/glebe-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/groups-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/heritage-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/icon-benefits.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/icon-close-booking.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/icon-luggage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/intro-graphic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/location-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/location-side-graffiti.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/modern-cat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/newtown-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/racecourse-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/resort-glebe/icon-wifi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/splash-bottom-location.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/sydney-space.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/white-brush-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/images/white-brush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/includes/js/main.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/index (copy).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/old/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/old/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/old/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/partnerships.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/privacy-policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/glebe/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/glebe/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/glebe/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/glebe/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/glebe/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/newtown/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/newtown/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/newtown/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/newtown/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/newtown/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/racecourse/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/racecourse/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/racecourse/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/racecourse/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/racecourse/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/sydney/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/sydney/location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/sydney/our-property.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/sydney/photo-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/resorts/sydney/rooms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/special-offers/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m_v3_old/special-offers/special-offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/v4.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resorts/newtown/groups.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/groups.html" afterPath="$PROJECT_DIR$/groups.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/js/map-category/map-cat-sidebar.js" afterPath="$PROJECT_DIR$/includes/js/map-category/map-cat-sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-hotel-space.html" afterPath="$PROJECT_DIR$/about-hotel-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-us.html" afterPath="$PROJECT_DIR$/contact-us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/glebe/index.html" afterPath="$PROJECT_DIR$/m/resorts/glebe/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/glebe/location.html" afterPath="$PROJECT_DIR$/m/resorts/glebe/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/glebe/our-property.html" afterPath="$PROJECT_DIR$/m/resorts/glebe/our-property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/glebe/photo-gallery.html" afterPath="$PROJECT_DIR$/m/resorts/glebe/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/glebe/rooms.html" afterPath="$PROJECT_DIR$/m/resorts/glebe/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/newtown/index.html" afterPath="$PROJECT_DIR$/m/resorts/newtown/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/racecourse/index.html" afterPath="$PROJECT_DIR$/m/resorts/racecourse/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/racecourse/location.html" afterPath="$PROJECT_DIR$/m/resorts/racecourse/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/racecourse/our-property.html" afterPath="$PROJECT_DIR$/m/resorts/racecourse/our-property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/racecourse/photo-gallery.html" afterPath="$PROJECT_DIR$/m/resorts/racecourse/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/racecourse/rooms.html" afterPath="$PROJECT_DIR$/m/resorts/racecourse/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/sydney/index.html" afterPath="$PROJECT_DIR$/m/resorts/sydney/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/sydney/location.html" afterPath="$PROJECT_DIR$/m/resorts/sydney/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/sydney/our-property.html" afterPath="$PROJECT_DIR$/m/resorts/sydney/our-property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/sydney/photo-gallery.html" afterPath="$PROJECT_DIR$/m/resorts/sydney/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/resorts/sydney/rooms.html" afterPath="$PROJECT_DIR$/m/resorts/sydney/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo-gallery.html" afterPath="$PROJECT_DIR$/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" afterPath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/ajax/functions.php" afterPath="$PROJECT_DIR$/resorts/newtown/ajax/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/groups.html" afterPath="$PROJECT_DIR$/resorts/newtown/groups.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/blog.html" afterPath="$PROJECT_DIR$/resorts/newtown/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/contact-us.html" afterPath="$PROJECT_DIR$/resorts/newtown/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/event-calendar.html" afterPath="$PROJECT_DIR$/resorts/newtown/event-calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/faq.html" afterPath="$PROJECT_DIR$/resorts/newtown/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/newtown.html" afterPath="$PROJECT_DIR$/resorts/newtown/newtown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-offers.html" afterPath="$PROJECT_DIR$/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/our-property.html" afterPath="$PROJECT_DIR$/resorts/newtown/our-property.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/rooms.html" afterPath="$PROJECT_DIR$/resorts/newtown/rooms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/special-offers.html" afterPath="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" afterPath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stay-at-space.html" afterPath="$PROJECT_DIR$/stay-at-space.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -327,146 +32,45 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="800" column="18" lean-forward="true" selection-start-line="772" selection-start-column="11" selection-end-line="800" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="groups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/groups.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="818" column="22" lean-forward="true" selection-start-line="790" selection-start-column="15" selection-end-line="818" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="special-offers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/special-offers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photo-gallery.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/photo-gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="710" column="25" lean-forward="true" selection-start-line="697" selection-start-column="18" selection-end-line="710" selection-end-column="25" />
-              <folding>
-                <marker date="1505846242101" expanded="true" signature="34861:34958" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="partnerships.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/partnerships.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="685" column="42" lean-forward="false" selection-start-line="685" selection-start-column="42" selection-end-line="685" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#20321#20328#0" expanded="true" />
-                <element signature="e#20435#20442#0" expanded="true" />
-                <element signature="e#20505#20512#0" expanded="true" />
-                <element signature="e#20770#20777#0" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#20903#20910#0" expanded="true" />
-                <element signature="e#20997#21004#0" expanded="true" />
-                <element signature="e#21139#21146#0" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#40610#40615#0" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="865" column="21" lean-forward="false" selection-start-line="865" selection-start-column="21" selection-end-line="865" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faq.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="581" column="21" lean-forward="false" selection-start-line="581" selection-start-column="21" selection-end-line="581" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact-us.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact-us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-402">
-              <caret line="810" column="21" lean-forward="false" selection-start-line="810" selection-start-column="21" selection-end-line="810" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>functions.php?operation=getMapPinsCustom</find>
-      <find>map-cat-sidebar.js</find>
-      <find>infobox_packed.js</find>
-      <find>js?sensor=false</find>
-      <find>map</find>
-      <find>js?key=AIzaSyCiVSOyyrwyyzu1XR9GiLbEc1s4TZYqhmg</find>
-      <find>maps.google.com/maps/api</find>
-      <find>download</find>
-      <find>downloadxml.js</find>
-      <find>infob</find>
-      <find>getMapPinsCustom</find>
-      <find>site_url</find>
-      <find>info</find>
-      <find>header</find>
-      <find>downloa</find>
-      <find>ul</find>
-      <find>&lt;ul&gt;</find>
-      <find>contact</find>
-      <find>clar</find>
-      <find>../be478d95e8aa404656c1-d983ce57e4c84901daded0f67d5a004f.r11.cf1.rackcdn.com/hotel-space</find>
-      <find>AN EVENING OF ART IN SYDNEY</find>
       <find>\&lt;script\&gt;\n        \(function \(i\, s\, o\, g\, r\, a\, m\) \{\n            i\[\'GoogleAnalyticsObject\'\] \= r\;\n            i\[r\] \= i\[r\] \|\| function \(\) \{\n                    \(i\[r\]\.q \= i\[r\]\.q \|\| \[\]\)\.push\(arguments\)\n                \}\, i\[r\]\.l \= 1 \* new Date\(\)\;\n            a \= s\.createElement\(o\)\,\n                m \= s\.getElementsByTagName\(o\)\[0\]\;\n            a\.async \= 1\;\n            a\.src \= g\;\n            m\.parentNode\.insertBefore\(a\, m\)\n        \}\)\(window\, document\, \'script\'\, \'\.\.\/www\.google\-analytics\.com\/analytics\.js\'\, \'ga\'\)\;\n\n        ga\(\'create\'\, \'UA\-97726530\-1\'\, \'auto\'\, \{\'allowLinker\'\: true\}\)\;\n        ga\(\'require\'\, \'linker\'\)\;\n        ga\(\'linker\:autoLink\'\, \[\'reztrip\.com\'\, \'reztripmobile\.com\'\]\)\;\n        ga\(\'require\'\, \'linkid\'\, \'linkid\.html\'\)\;\n        ga\(\'require\'\, \'displayfeatures\'\)\;\n        ga\(\'send\'\, \'pageview\'\)\;\n\n\n    \&lt;\/script\&gt;</find>
       <find>googlean</find>
       <find>../www.symphonyhotelmarketing.com</find>
       <find>view</find>
-      <find>cler</find>
       <find>head</find>
-      <find>copy</find>
-      <find>sec</find>
       <find>view pro</find>
+      <find>sen</find>
+      <find>request-quote.html</find>
+      <find>learn</find>
+      <find>check</find>
+      <find>cale</find>
+      <find>see</find>
+      <find>../../../www.symphonyhotelmarketing.com</find>
+      <find>copy</find>
+      <find>cop</find>
+      <find>clar</find>
+      <find>clea</find>
+      <find>cler</find>
+      <find>clearf</find>
+      <find>../assets/images/resort-glebe/gallery-6.jpg</find>
+      <find>seconf</find>
+      <find>cle</find>
+      <find>faq</find>
+      <find>secon</find>
+      <find>se</find>
+      <find>sec</find>
+      <find>cla</find>
+      <find>header</find>
+      <find>seco</find>
+      <find>clear</find>
     </findStrings>
     <replaceStrings>
       <replace>hotelspace</replace>
       <replace>main_assets</replace>
+      <replace>../../main_assets</replace>
     </replaceStrings>
     <dirStrings>
       <dir>F:\hotelspace</dir>
@@ -478,11 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resorts/newtown.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/our-property.html" />
         <option value="$PROJECT_DIR$/resorts/glebe/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/glebe/special-offers.html" />
         <option value="$PROJECT_DIR$/assets/style.css" />
@@ -491,18 +90,12 @@
         <option value="$PROJECT_DIR$/resorts/racecourse/our-property.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/rooms.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/our-property.html" />
         <option value="$PROJECT_DIR$/assets/scripts.js" />
-        <option value="$PROJECT_DIR$/resorts/newtown/event-calendar.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/location.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/our-property.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/location.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/location.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/event-calendar.html" />
@@ -511,7 +104,6 @@
         <option value="$PROJECT_DIR$/resorts/glebe/glebe.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/racecourse.html" />
         <option value="$PROJECT_DIR$/resorts/glebe/event-calendar.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/newtown.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/groups.html" />
         <option value="$PROJECT_DIR$/includes/js/map-category/map-cat-sidebar.js" />
         <option value="$PROJECT_DIR$/resorts/newtown/interactive-map.html" />
@@ -519,15 +111,28 @@
         <option value="$PROJECT_DIR$/resorts/racecourse/interactive-map.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/sydney.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/interactive-map.html" />
-        <option value="$PROJECT_DIR$/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/contact-us.html" />
         <option value="$PROJECT_DIR$/groups.html" />
         <option value="$PROJECT_DIR$/special-offers.html" />
+        <option value="$PROJECT_DIR$/photo-gallery.html" />
         <option value="$PROJECT_DIR$/partnerships.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
+        <option value="$PROJECT_DIR$/about-hotel-space.html" />
+        <option value="$PROJECT_DIR$/request-quote.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/request-quote.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/newtown.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/faq.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/contact-us.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/event-calendar.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/blog.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
       </list>
     </option>
   </component>
@@ -539,10 +144,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -559,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -572,9 +176,40 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelspace" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resorts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sydney" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelspace" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resorts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -675,22 +310,22 @@
       <workItem from="1505396976742" duration="16674000" />
       <workItem from="1505479015074" duration="15884000" />
       <workItem from="1505619357878" duration="26782000" />
-      <workItem from="1505831390336" duration="7279000" />
+      <workItem from="1505831390336" duration="7423000" />
+      <workItem from="1505869898207" duration="18215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99025000" />
+    <option name="totallyTimeSpent" value="117384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17687596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6972177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15329513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -701,6 +336,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6972177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -737,48 +373,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/privacy-policy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="460" column="0" lean-forward="false" selection-start-line="460" selection-start-column="0" selection-end-line="460" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1428">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2913">
-          <caret line="432" column="13" lean-forward="false" selection-start-line="432" selection-start-column="13" selection-end-line="432" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/rooms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="320" column="90" lean-forward="false" selection-start-line="320" selection-start-column="90" selection-end-line="320" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/our-property.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="318" column="90" lean-forward="false" selection-start-line="318" selection-start-column="90" selection-end-line="318" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/glebe/stay-at-space.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -828,34 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="301" column="86" lean-forward="false" selection-start-line="301" selection-start-column="86" selection-end-line="301" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="303" column="75" lean-forward="false" selection-start-line="303" selection-start-column="75" selection-end-line="303" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="302" column="74" lean-forward="false" selection-start-line="302" selection-start-column="74" selection-end-line="302" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/rooms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="293" column="37" lean-forward="true" selection-start-line="293" selection-start-column="37" selection-end-line="293" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/sydney/photo-gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -883,13 +449,6 @@
         <state relative-caret-position="187">
           <caret line="190" column="155" lean-forward="false" selection-start-line="190" selection-start-column="155" selection-end-line="190" selection-end-column="163" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/event-calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="314" column="25" lean-forward="true" selection-start-line="301" selection-start-column="20" selection-end-line="314" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -935,13 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/our-property.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="298" column="75" lean-forward="false" selection-start-line="298" selection-start-column="75" selection-end-line="298" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/newtown/location.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -963,13 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/newtown/groups.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -981,13 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="257" column="37" lean-forward="true" selection-start-line="257" selection-start-column="37" selection-end-line="257" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/interactive-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1718">
-          <caret line="770" column="0" lean-forward="true" selection-start-line="770" selection-start-column="0" selection-end-line="770" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1033,75 +571,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stay-at-space.html">
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5444">
-          <caret line="603" column="30" lean-forward="false" selection-start-line="603" selection-start-column="30" selection-end-line="603" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="710" column="25" lean-forward="true" selection-start-line="697" selection-start-column="18" selection-end-line="710" selection-end-column="25" />
+        <state relative-caret-position="336">
+          <caret line="868" column="36" lean-forward="true" selection-start-line="868" selection-start-column="36" selection-end-line="868" selection-end-column="36" />
           <folding>
-            <marker date="1505846242101" expanded="true" signature="34861:34958" ph="..." />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/request-quote.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="865" column="21" lean-forward="false" selection-start-line="865" selection-start-column="21" selection-end-line="865" selection-end-column="21" />
+        <state relative-caret-position="170">
+          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
+    <entry file="file://$PROJECT_DIR$/about-hotel-space.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="581" column="21" lean-forward="false" selection-start-line="581" selection-start-column="21" selection-end-line="581" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402">
-          <caret line="810" column="21" lean-forward="false" selection-start-line="810" selection-start-column="21" selection-end-line="810" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="800" column="18" lean-forward="true" selection-start-line="772" selection-start-column="11" selection-end-line="800" selection-end-column="18" />
+        <state relative-caret-position="523">
+          <caret line="583" column="22" lean-forward="false" selection-start-line="583" selection-start-column="22" selection-end-line="583" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="818" column="22" lean-forward="true" selection-start-line="790" selection-start-column="15" selection-end-line="818" selection-end-column="22" />
+        <state relative-caret-position="509">
+          <caret line="818" column="22" lean-forward="true" selection-start-line="790" selection-start-column="16" selection-end-line="818" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="598" column="21" lean-forward="true" selection-start-line="598" selection-start-column="21" selection-end-line="598" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2789">
+          <caret line="710" column="25" lean-forward="false" selection-start-line="710" selection-start-column="25" selection-end-line="710" selection-end-column="25" />
+          <folding>
+            <marker date="1505846242101" expanded="true" signature="34861:34958" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partnerships.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="685" column="42" lean-forward="false" selection-start-line="685" selection-start-column="42" selection-end-line="685" selection-end-column="42" />
+        <state relative-caret-position="441">
+          <caret line="617" column="21" lean-forward="false" selection-start-line="617" selection-start-column="21" selection-end-line="617" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#20321#20328#0" expanded="true" />
@@ -1122,6 +647,136 @@
             <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11850">
+          <caret line="285" column="86" lean-forward="true" selection-start-line="285" selection-start-column="86" selection-end-line="285" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2211">
+          <caret line="635" column="18" lean-forward="true" selection-start-line="635" selection-start-column="18" selection-end-line="635" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="563" column="25" lean-forward="false" selection-start-line="563" selection-start-column="25" selection-end-line="563" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="291" column="71" lean-forward="true" selection-start-line="291" selection-start-column="28" selection-end-line="291" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/request-quote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1771">
+          <caret line="800" column="46" lean-forward="true" selection-start-line="800" selection-start-column="46" selection-end-line="800" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="916" column="18" lean-forward="true" selection-start-line="904" selection-start-column="11" selection-end-line="916" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="823" column="14" lean-forward="false" selection-start-line="823" selection-start-column="14" selection-end-line="823" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/event-calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="617" column="14" lean-forward="false" selection-start-line="617" selection-start-column="14" selection-end-line="617" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/interactive-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="555" column="37" lean-forward="false" selection-start-line="555" selection-start-column="35" selection-end-line="555" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="569" column="14" lean-forward="false" selection-start-line="569" selection-start-column="14" selection-end-line="569" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="702" column="18" lean-forward="false" selection-start-line="702" selection-start-column="18" selection-end-line="702" selection-end-column="18" />
+          <folding>
+            <marker date="1505894470602" expanded="true" signature="32897:32994" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="622" column="14" lean-forward="false" selection-start-line="622" selection-start-column="14" selection-end-line="622" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="314" column="21" lean-forward="true" selection-start-line="289" selection-start-column="15" selection-end-line="314" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="921" column="14" lean-forward="true" selection-start-line="896" selection-start-column="8" selection-end-line="921" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="605" column="14" lean-forward="true" selection-start-line="593" selection-start-column="7" selection-end-line="605" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="623" column="18" lean-forward="false" selection-start-line="623" selection-start-column="18" selection-end-line="623" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
