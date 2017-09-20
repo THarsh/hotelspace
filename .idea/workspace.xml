@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resorts/newtown/groups.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-hotel-space.html" afterPath="$PROJECT_DIR$/about-hotel-space.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-us.html" afterPath="$PROJECT_DIR$/contact-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/blog.html" afterPath="$PROJECT_DIR$/resorts/newtown/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/contact-us.html" afterPath="$PROJECT_DIR$/resorts/newtown/contact-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/event-calendar.html" afterPath="$PROJECT_DIR$/resorts/newtown/event-calendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/faq.html" afterPath="$PROJECT_DIR$/resorts/newtown/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/newtown.html" afterPath="$PROJECT_DIR$/resorts/newtown/newtown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/our-property.html" afterPath="$PROJECT_DIR$/resorts/newtown/our-property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/newtown/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/rooms.html" afterPath="$PROJECT_DIR$/resorts/newtown/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/special-offers.html" afterPath="$PROJECT_DIR$/resorts/newtown/special-offers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" afterPath="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stay-at-space.html" afterPath="$PROJECT_DIR$/stay-at-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/blog.html" afterPath="$PROJECT_DIR$/resorts/sydney/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/contact-us.html" afterPath="$PROJECT_DIR$/resorts/sydney/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/faq.html" afterPath="$PROJECT_DIR$/resorts/sydney/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/location.html" afterPath="$PROJECT_DIR$/resorts/sydney/location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/our-property.html" afterPath="$PROJECT_DIR$/resorts/sydney/our-property.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/rooms.html" afterPath="$PROJECT_DIR$/resorts/sydney/rooms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/special-offers.html" afterPath="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" afterPath="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/sydney.html" afterPath="$PROJECT_DIR$/resorts/sydney/sydney.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,21 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>\&lt;script\&gt;\n        \(function \(i\, s\, o\, g\, r\, a\, m\) \{\n            i\[\'GoogleAnalyticsObject\'\] \= r\;\n            i\[r\] \= i\[r\] \|\| function \(\) \{\n                    \(i\[r\]\.q \= i\[r\]\.q \|\| \[\]\)\.push\(arguments\)\n                \}\, i\[r\]\.l \= 1 \* new Date\(\)\;\n            a \= s\.createElement\(o\)\,\n                m \= s\.getElementsByTagName\(o\)\[0\]\;\n            a\.async \= 1\;\n            a\.src \= g\;\n            m\.parentNode\.insertBefore\(a\, m\)\n        \}\)\(window\, document\, \'script\'\, \'\.\.\/www\.google\-analytics\.com\/analytics\.js\'\, \'ga\'\)\;\n\n        ga\(\'create\'\, \'UA\-97726530\-1\'\, \'auto\'\, \{\'allowLinker\'\: true\}\)\;\n        ga\(\'require\'\, \'linker\'\)\;\n        ga\(\'linker\:autoLink\'\, \[\'reztrip\.com\'\, \'reztripmobile\.com\'\]\)\;\n        ga\(\'require\'\, \'linkid\'\, \'linkid\.html\'\)\;\n        ga\(\'require\'\, \'displayfeatures\'\)\;\n        ga\(\'send\'\, \'pageview\'\)\;\n\n\n    \&lt;\/script\&gt;</find>
-      <find>googlean</find>
-      <find>../www.symphonyhotelmarketing.com</find>
-      <find>view</find>
-      <find>head</find>
-      <find>view pro</find>
-      <find>sen</find>
-      <find>request-quote.html</find>
-      <find>learn</find>
-      <find>check</find>
-      <find>cale</find>
-      <find>see</find>
-      <find>../../../www.symphonyhotelmarketing.com</find>
-      <find>copy</find>
-      <find>cop</find>
       <find>clar</find>
       <find>clea</find>
       <find>cler</find>
@@ -62,14 +41,30 @@
       <find>secon</find>
       <find>se</find>
       <find>sec</find>
-      <find>cla</find>
-      <find>header</find>
       <find>seco</find>
+      <find>../www.symphonyhotelmarketing.com</find>
+      <find>../../../www.symphonyhotelmarketing.com</find>
+      <find>copy</find>
+      <find>copyri</find>
+      <find>cler\</find>
+      <find>header</find>
       <find>clear</find>
+      <find>second</find>
+      <find>check</find>
+      <find>view</find>
+      <find>main_assets</find>
+      <find>hotelspace</find>
+      <find>scripts</find>
+      <find>cop</find>
+      <find>calen</find>
+      <find>view all</find>
+      <find>cla</find>
+      <find>request</find>
     </findStrings>
     <replaceStrings>
       <replace>hotelspace</replace>
       <replace>main_assets</replace>
+      <replace>../../hotelspace</replace>
       <replace>../../main_assets</replace>
     </replaceStrings>
     <dirStrings>
@@ -82,22 +77,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resorts/glebe/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/special-offers.html" />
-        <option value="$PROJECT_DIR$/assets/style.css" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/special-offers.html" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/photo-gallery.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/our-property.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/stay-at-space.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/rooms.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/our-property.html" />
         <option value="$PROJECT_DIR$/assets/scripts.js" />
         <option value="$PROJECT_DIR$/resorts/newtown/location.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/location.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/location.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/event-calendar.html" />
         <option value="$PROJECT_DIR$/resorts/glebe/location.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/event-calendar.html" />
@@ -109,7 +94,6 @@
         <option value="$PROJECT_DIR$/resorts/newtown/interactive-map.html" />
         <option value="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/interactive-map.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/sydney.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/interactive-map.html" />
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/groups.html" />
@@ -133,6 +117,17 @@
         <option value="$PROJECT_DIR$/resorts/newtown/rooms.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/blog.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/blog.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/contact-us.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/location.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/faq.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/sydney.html" />
+        <option value="$PROJECT_DIR$/resorts/sydney/request-quote.html" />
       </list>
     </option>
   </component>
@@ -145,7 +140,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -311,15 +306,15 @@
       <workItem from="1505479015074" duration="15884000" />
       <workItem from="1505619357878" duration="26782000" />
       <workItem from="1505831390336" duration="7423000" />
-      <workItem from="1505869898207" duration="18215000" />
+      <workItem from="1505869898207" duration="22761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117384000" />
+    <option name="totallyTimeSpent" value="121930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <frame x="0" y="0" width="1366" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17687596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -373,41 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="321" column="90" lean-forward="false" selection-start-line="321" selection-start-column="90" selection-end-line="321" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="296" column="39" lean-forward="false" selection-start-line="296" selection-start-column="38" selection-end-line="296" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/stay-at-space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="321" column="90" lean-forward="false" selection-start-line="321" selection-start-column="90" selection-end-line="321" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/rooms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="339" column="90" lean-forward="false" selection-start-line="339" selection-start-column="90" selection-end-line="339" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="298" column="90" lean-forward="false" selection-start-line="298" selection-start-column="90" selection-end-line="298" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/racecourse/photo-gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -419,20 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="294" column="90" lean-forward="false" selection-start-line="294" selection-start-column="90" selection-end-line="294" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="306" column="88" lean-forward="false" selection-start-line="306" selection-start-column="88" selection-end-line="306" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/special-offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="285" column="53" lean-forward="false" selection-start-line="285" selection-start-column="47" selection-end-line="285" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -449,34 +395,6 @@
         <state relative-caret-position="187">
           <caret line="190" column="155" lean-forward="false" selection-start-line="190" selection-start-column="155" selection-end-line="190" selection-end-column="163" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="315" column="25" lean-forward="true" selection-start-line="292" selection-start-column="19" selection-end-line="315" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/rooms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="314" column="25" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="314" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/event-calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="313" column="25" lean-forward="false" selection-start-line="313" selection-start-column="25" selection-end-line="313" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/our-property.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="310" column="87" lean-forward="false" selection-start-line="310" selection-start-column="87" selection-end-line="310" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -554,20 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="290" column="34" lean-forward="true" selection-start-line="290" selection-start-column="34" selection-end-line="290" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/interactive-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="285" column="83" lean-forward="false" selection-start-line="285" selection-start-column="83" selection-end-line="285" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/sydney/sydney.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="283" column="44" lean-forward="false" selection-start-line="283" selection-start-column="38" selection-end-line="283" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -674,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4947">
-          <caret line="291" column="71" lean-forward="true" selection-start-line="291" selection-start-column="28" selection-end-line="291" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/newtown/request-quote.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1771">
@@ -777,6 +673,293 @@
         <state relative-caret-position="697">
           <caret line="623" column="18" lean-forward="false" selection-start-line="623" selection-start-column="18" selection-end-line="623" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/event-calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="313" column="25" lean-forward="false" selection-start-line="313" selection-start-column="25" selection-end-line="313" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="622" column="14" lean-forward="false" selection-start-line="622" selection-start-column="14" selection-end-line="622" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="802" column="18" lean-forward="false" selection-start-line="802" selection-start-column="18" selection-end-line="802" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="585" column="14" lean-forward="false" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/interactive-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="525" column="36" lean-forward="false" selection-start-line="525" selection-start-column="35" selection-end-line="525" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="801" column="14" lean-forward="false" selection-start-line="801" selection-start-column="14" selection-end-line="801" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="302" column="74" lean-forward="false" selection-start-line="302" selection-start-column="74" selection-end-line="302" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="688" column="18" lean-forward="false" selection-start-line="688" selection-start-column="18" selection-end-line="688" selection-end-column="18" />
+          <folding>
+            <marker date="1505903623914" expanded="true" signature="32571:32668" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="593" column="18" lean-forward="false" selection-start-line="593" selection-start-column="18" selection-end-line="593" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4124">
+          <caret line="894" column="14" lean-forward="false" selection-start-line="894" selection-start-column="14" selection-end-line="894" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#21426#21433#0" expanded="true" />
+            <element signature="e#21606#21612#0" expanded="true" />
+            <element signature="e#21858#21865#0" expanded="true" />
+            <element signature="e#21911#21917#0" expanded="true" />
+            <element signature="e#22250#22256#0" expanded="true" />
+            <element signature="e#22691#22697#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23458#23465#0" expanded="true" />
+            <element signature="e#23992#23998#0" expanded="true" />
+            <element signature="e#24118#24125#0" expanded="true" />
+            <element signature="e#24267#24274#0" expanded="true" />
+            <element signature="e#24317#24324#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25449#25456#0" expanded="true" />
+            <element signature="e#25584#25591#0" expanded="true" />
+            <element signature="e#25800#25806#0" expanded="true" />
+            <element signature="e#26162#26169#0" expanded="true" />
+            <element signature="e#26250#26256#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#26950#26957#0" expanded="true" />
+            <element signature="e#27511#27517#0" expanded="true" />
+            <element signature="e#27577#27584#0" expanded="true" />
+            <element signature="e#27754#27759#0" expanded="true" />
+            <element signature="e#27906#27912#0" expanded="true" />
+            <element signature="e#28018#28024#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28790#28796#0" expanded="true" />
+            <element signature="e#29310#29318#0" expanded="true" />
+            <element signature="e#29345#29351#0" expanded="true" />
+            <element signature="e#29763#29769#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#30981#30987#0" expanded="true" />
+            <element signature="e#31241#31248#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#32867#32873#0" expanded="true" />
+            <element signature="e#33189#33195#0" expanded="true" />
+            <element signature="e#33318#33324#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#34357#34363#0" expanded="true" />
+            <element signature="e#34560#34567#0" expanded="true" />
+            <element signature="e#34604#34611#0" expanded="true" />
+            <element signature="e#34751#34757#0" expanded="true" />
+            <element signature="e#34991#34998#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#37052#37058#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#37903#37910#0" expanded="true" />
+            <element signature="e#38522#38528#0" expanded="true" />
+            <element signature="e#38796#38803#0" expanded="true" />
+            <element signature="e#39051#39058#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#39918#39924#0" expanded="true" />
+            <element signature="e#40336#40342#0" expanded="true" />
+            <element signature="e#40726#40732#0" expanded="true" />
+            <element signature="e#41033#41040#0" expanded="true" />
+            <element signature="e#41053#41059#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41961#41968#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#1;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#42468#42475#0" expanded="true" />
+            <element signature="e#42576#42583#0" expanded="true" />
+            <element signature="e#42669#42676#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#3;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#4;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#43093#43101#0" expanded="true" />
+            <element signature="e#43109#43116#0" expanded="true" />
+            <element signature="e#43243#43250#0" expanded="true" />
+            <element signature="e#43277#43284#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#6;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#6;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#7;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#7;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#8;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#43741#43748#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="291" column="71" lean-forward="true" selection-start-line="291" selection-start-column="27" selection-end-line="291" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/request-quote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="767" column="22" lean-forward="false" selection-start-line="767" selection-start-column="22" selection-end-line="767" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10411#10418#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#fieldset#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/sydney.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="1111" column="18" lean-forward="true" selection-start-line="1099" selection-start-column="12" selection-end-line="1111" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/sydney/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="298" column="25" lean-forward="true" selection-start-line="298" selection-start-column="25" selection-end-line="298" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#19641#19647#0" expanded="true" />
+            <element signature="e#19746#19752#0" expanded="true" />
+            <element signature="e#19841#19847#0" expanded="true" />
+            <element signature="e#19888#19895#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20089#20096#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#8;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#9;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20795#20801#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#12;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#14;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#15;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#16;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#18;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#19;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#21;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#22;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#23;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#25;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#26;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#27;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#28;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#29;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#30;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#31;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#32;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23672#23679#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#35;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#36;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#38;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#39;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#40;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#41;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#42;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#44;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#45;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#24876#24882#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#48;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#49;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#51;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25339#25345#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#52;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25471#25477#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#p#52;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#54;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#55;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#57;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#26208#26215#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#58;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#61;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#62;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#64;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#65;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
