@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2336c1b8-3519-4ea4-b457-37fddadf5ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/blog.html" afterPath="$PROJECT_DIR$/resorts/sydney/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/contact-us.html" afterPath="$PROJECT_DIR$/resorts/sydney/contact-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/faq.html" afterPath="$PROJECT_DIR$/resorts/sydney/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/location.html" afterPath="$PROJECT_DIR$/resorts/sydney/location.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/our-property.html" afterPath="$PROJECT_DIR$/resorts/sydney/our-property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/sydney/photo-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/rooms.html" afterPath="$PROJECT_DIR$/resorts/sydney/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/special-offers.html" afterPath="$PROJECT_DIR$/resorts/sydney/special-offers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" afterPath="$PROJECT_DIR$/resorts/sydney/stay-at-space.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/sydney/sydney.html" afterPath="$PROJECT_DIR$/resorts/sydney/sydney.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/blog.html" afterPath="$PROJECT_DIR$/resorts/glebe/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/contact-us.html" afterPath="$PROJECT_DIR$/resorts/glebe/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/event-calendar.html" afterPath="$PROJECT_DIR$/resorts/glebe/event-calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/faq.html" afterPath="$PROJECT_DIR$/resorts/glebe/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/glebe.html" afterPath="$PROJECT_DIR$/resorts/glebe/glebe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" afterPath="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/location.html" afterPath="$PROJECT_DIR$/resorts/glebe/location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/our-property.html" afterPath="$PROJECT_DIR$/resorts/glebe/our-property.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/photo-gallery.html" afterPath="$PROJECT_DIR$/resorts/glebe/photo-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/rooms.html" afterPath="$PROJECT_DIR$/resorts/glebe/rooms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/glebe/special-offers.html" afterPath="$PROJECT_DIR$/resorts/glebe/special-offers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/newtown.html" afterPath="$PROJECT_DIR$/resorts/newtown/newtown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resorts/newtown/request-quote.html" afterPath="$PROJECT_DIR$/resorts/newtown/request-quote.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,46 +28,67 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="newtown.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="105" column="21" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="105" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request-quote.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resorts/newtown/request-quote.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="81" column="54" lean-forward="false" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>clar</find>
-      <find>clea</find>
-      <find>cler</find>
-      <find>clearf</find>
       <find>../assets/images/resort-glebe/gallery-6.jpg</find>
       <find>seconf</find>
       <find>cle</find>
       <find>faq</find>
       <find>secon</find>
       <find>se</find>
-      <find>sec</find>
       <find>seco</find>
-      <find>../www.symphonyhotelmarketing.com</find>
-      <find>../../../www.symphonyhotelmarketing.com</find>
       <find>copy</find>
       <find>copyri</find>
       <find>cler\</find>
       <find>header</find>
       <find>clear</find>
-      <find>second</find>
       <find>check</find>
       <find>view</find>
       <find>main_assets</find>
       <find>hotelspace</find>
       <find>scripts</find>
-      <find>cop</find>
       <find>calen</find>
       <find>view all</find>
       <find>cla</find>
       <find>request</find>
+      <find>../www.symphonyhotelmarketing.com</find>
+      <find>cop</find>
+      <find>../../../www.symphonyhotelmarketing.com</find>
+      <find>sec</find>
+      <find>secodn</find>
+      <find>second</find>
+      <find>view</find>
+      <find>req</find>
+      <find>head</find>
     </findStrings>
     <replaceStrings>
       <replace>hotelspace</replace>
-      <replace>main_assets</replace>
       <replace>../../hotelspace</replace>
       <replace>../../main_assets</replace>
+      <replace>main_assets</replace>
     </replaceStrings>
     <dirStrings>
       <dir>F:\hotelspace</dir>
@@ -77,22 +100,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resorts/racecourse/our-property.html" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/rooms.html" />
-        <option value="$PROJECT_DIR$/assets/scripts.js" />
-        <option value="$PROJECT_DIR$/resorts/newtown/location.html" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/location.html" />
-        <option value="$PROJECT_DIR$/resorts/sydney/event-calendar.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/location.html" />
-        <option value="$PROJECT_DIR$/resorts/racecourse/event-calendar.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/glebe.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/racecourse.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/event-calendar.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/groups.html" />
         <option value="$PROJECT_DIR$/includes/js/map-category/map-cat-sidebar.js" />
         <option value="$PROJECT_DIR$/resorts/newtown/interactive-map.html" />
-        <option value="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
         <option value="$PROJECT_DIR$/resorts/racecourse/interactive-map.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/interactive-map.html" />
         <option value="$PROJECT_DIR$/faq.html" />
@@ -106,8 +117,6 @@
         <option value="$PROJECT_DIR$/request-quote.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stay-at-space.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/request-quote.html" />
-        <option value="$PROJECT_DIR$/resorts/newtown/newtown.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/faq.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/contact-us.html" />
         <option value="$PROJECT_DIR$/resorts/newtown/event-calendar.html" />
@@ -128,6 +137,20 @@
         <option value="$PROJECT_DIR$/resorts/sydney/faq.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/sydney.html" />
         <option value="$PROJECT_DIR$/resorts/sydney/request-quote.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/faq.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/event-calendar.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/special-offers.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/rooms.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/photo-gallery.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/our-property.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/location.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/contact-us.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/blog.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/request-quote.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/interactive-map.html" />
+        <option value="$PROJECT_DIR$/resorts/glebe/glebe.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/newtown.html" />
+        <option value="$PROJECT_DIR$/resorts/newtown/request-quote.html" />
       </list>
     </option>
   </component>
@@ -184,10 +207,6 @@
               <option name="myItemId" value="resorts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sydney" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -200,6 +219,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resorts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newtown" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,18 +329,18 @@
       <workItem from="1505479015074" duration="15884000" />
       <workItem from="1505619357878" duration="26782000" />
       <workItem from="1505831390336" duration="7423000" />
-      <workItem from="1505869898207" duration="22761000" />
+      <workItem from="1505869898207" duration="27001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121930000" />
+    <option name="totallyTimeSpent" value="126170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="860" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17687596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17687596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -345,10 +368,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17019667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17687596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6972177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15329513" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -368,99 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/photo-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="291" column="90" lean-forward="false" selection-start-line="291" selection-start-column="90" selection-end-line="291" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/our-property.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="294" column="90" lean-forward="false" selection-start-line="294" selection-start-column="90" selection-end-line="294" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="211" column="15" lean-forward="true" selection-start-line="211" selection-start-column="15" selection-end-line="211" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="190" column="155" lean-forward="false" selection-start-line="190" selection-start-column="155" selection-end-line="190" selection-end-column="163" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="87" column="63" lean-forward="false" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/racecourse/event-calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="315" column="21" lean-forward="false" selection-start-line="315" selection-start-column="21" selection-end-line="315" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="333" column="0" lean-forward="true" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3383">
-          <caret line="282" column="54" lean-forward="false" selection-start-line="282" selection-start-column="49" selection-end-line="282" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/event-calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="286" column="35" lean-forward="true" selection-start-line="286" selection-start-column="35" selection-end-line="286" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/js/map-category/map-cat-sidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="257" column="37" lean-forward="true" selection-start-line="257" selection-start-column="37" selection-end-line="257" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/interactive-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="285" column="82" lean-forward="false" selection-start-line="285" selection-start-column="82" selection-end-line="285" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/glebe/glebe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="283" column="43" lean-forward="false" selection-start-line="283" selection-start-column="38" selection-end-line="283" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resorts/racecourse/racecourse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -574,22 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="563" column="25" lean-forward="false" selection-start-line="563" selection-start-column="25" selection-end-line="563" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/request-quote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1771">
-          <caret line="800" column="46" lean-forward="true" selection-start-line="800" selection-start-column="46" selection-end-line="800" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="916" column="18" lean-forward="true" selection-start-line="904" selection-start-column="11" selection-end-line="916" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -960,6 +874,216 @@
             <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/stay-at-space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="561" column="34" lean-forward="true" selection-start-line="561" selection-start-column="34" selection-end-line="561" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/photo-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="701" column="18" lean-forward="false" selection-start-line="701" selection-start-column="18" selection-end-line="701" selection-end-column="18" />
+          <folding>
+            <marker date="1505907819430" expanded="true" signature="28245:28342" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/our-property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="595" column="14" lean-forward="false" selection-start-line="595" selection-start-column="14" selection-end-line="595" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="570" column="14" lean-forward="false" selection-start-line="570" selection-start-column="14" selection-end-line="570" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11791">
+          <caret line="799" column="14" lean-forward="false" selection-start-line="799" selection-start-column="14" selection-end-line="799" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12590">
+          <caret line="888" column="21" lean-forward="true" selection-start-line="888" selection-start-column="21" selection-end-line="888" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#21086#21093#0" expanded="true" />
+            <element signature="e#21266#21272#0" expanded="true" />
+            <element signature="e#21518#21525#0" expanded="true" />
+            <element signature="e#21571#21577#0" expanded="true" />
+            <element signature="e#21910#21916#0" expanded="true" />
+            <element signature="e#22351#22357#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23118#23125#0" expanded="true" />
+            <element signature="e#23652#23658#0" expanded="true" />
+            <element signature="e#23778#23785#0" expanded="true" />
+            <element signature="e#23927#23934#0" expanded="true" />
+            <element signature="e#23977#23984#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#25109#25116#0" expanded="true" />
+            <element signature="e#25244#25251#0" expanded="true" />
+            <element signature="e#25460#25466#0" expanded="true" />
+            <element signature="e#25822#25829#0" expanded="true" />
+            <element signature="e#25910#25916#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#26610#26617#0" expanded="true" />
+            <element signature="e#27171#27177#0" expanded="true" />
+            <element signature="e#27237#27244#0" expanded="true" />
+            <element signature="e#27414#27419#0" expanded="true" />
+            <element signature="e#27566#27572#0" expanded="true" />
+            <element signature="e#27678#27684#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#28450#28456#0" expanded="true" />
+            <element signature="e#28970#28978#0" expanded="true" />
+            <element signature="e#29005#29011#0" expanded="true" />
+            <element signature="e#29423#29429#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#30641#30647#0" expanded="true" />
+            <element signature="e#30901#30908#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#32527#32533#0" expanded="true" />
+            <element signature="e#32849#32855#0" expanded="true" />
+            <element signature="e#32978#32984#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#34017#34023#0" expanded="true" />
+            <element signature="e#34220#34227#0" expanded="true" />
+            <element signature="e#34264#34271#0" expanded="true" />
+            <element signature="e#34411#34417#0" expanded="true" />
+            <element signature="e#34651#34658#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#36712#36718#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#37563#37570#0" expanded="true" />
+            <element signature="e#38182#38188#0" expanded="true" />
+            <element signature="e#38456#38463#0" expanded="true" />
+            <element signature="e#38711#38718#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#39578#39584#0" expanded="true" />
+            <element signature="e#39996#40002#0" expanded="true" />
+            <element signature="e#40386#40392#0" expanded="true" />
+            <element signature="e#40693#40700#0" expanded="true" />
+            <element signature="e#40713#40719#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41621#41628#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#1;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#42128#42135#0" expanded="true" />
+            <element signature="e#42236#42243#0" expanded="true" />
+            <element signature="e#42329#42336#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#3;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#3;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#4;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#42753#42761#0" expanded="true" />
+            <element signature="e#42769#42776#0" expanded="true" />
+            <element signature="e#42903#42910#0" expanded="true" />
+            <element signature="e#42937#42944#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#6;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#6;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#7;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#7;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#8;n#div#0;n#div#1;n#li#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#43401#43408#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#form#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#58358#58363#0" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/special-offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6953">
+          <caret line="621" column="14" lean-forward="false" selection-start-line="621" selection-start-column="14" selection-end-line="621" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="307" column="51" lean-forward="false" selection-start-line="307" selection-start-column="46" selection-end-line="307" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/interactive-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="285" column="83" lean-forward="false" selection-start-line="285" selection-start-column="83" selection-end-line="285" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/glebe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3730">
+          <caret line="824" column="45" lean-forward="false" selection-start-line="824" selection-start-column="45" selection-end-line="824" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/event-calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="615" column="14" lean-forward="false" selection-start-line="615" selection-start-column="14" selection-end-line="615" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/glebe/request-quote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="79" column="41" lean-forward="false" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/newtown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="105" column="21" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="105" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resorts/newtown/request-quote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="81" column="54" lean-forward="false" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
